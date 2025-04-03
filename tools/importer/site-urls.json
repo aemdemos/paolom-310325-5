@@ -1,0 +1,1258 @@
+{
+  "originUrl": "https://www.aircanada.com",
+  "lastCrawled": "https://www.aircanada.com/",
+  "urls": [
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ar/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/au/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/fr/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ca/zh/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/de/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ch/fr/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cl/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/cn/zh/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/co/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/de/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/de/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/dk/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/es/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/fr/fr/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/hk/zh/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ie/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/il/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/it/it/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/jp/ja/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/kr/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/mx/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/nl/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/no/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pa/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/pe/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/se/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/tw/zh/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/uk/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/es/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/fr/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/us/zh/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/en/aco/trips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/checkin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/flight-pass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/flight-status",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/flights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/hotels",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.aircanada.com/home/ve/es/aco/trips",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.aircanada.com/",
+      "status": "301 Moved Permanently Redirect: https://www.aircanada.com/home/us/en/aco/flights"
+    },
+    {
+      "url": "https://www.aircanada.com/",
+      "status": "301 Moved Permanently Redirect: https://www.aircanada.com/home/us/en/aco/flights"
+    },
+    {
+      "url": "https://www.aircanada.com/home/assets/font/open-sans/OpenSans.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.aircanada.com/home/assets/font/icomoon/icomoon.woff",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.aircanada.com/OOzD_hJDB3c7kKx8ng/JDm1cu/LClXbS0ANwE/Vk1sW/mERFnpY",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.aircanada.com/OOzD_hJDB3c7kKx8ng/JDm1cu/LClXbS0ANwE/FUMNJ/mxwSnhY",
+      "status": "content type is not text/html"
+    }
+  ]
+}
