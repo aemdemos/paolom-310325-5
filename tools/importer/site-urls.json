@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.stantec.com",
+  "lastCrawled": "https://www.stantec.com/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.stantec.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.stantec.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html;charset=utf-8"
+    }
+  ]
+}
