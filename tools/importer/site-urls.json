@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.skinny.co.nz",
+  "lastCrawled": "https://www.skinny.co.nz/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.skinny.co.nz/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.skinny.co.nz/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
