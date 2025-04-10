@@ -1,0 +1,4358 @@
+{
+  "originUrl": "https://business.vic.gov.au",
+  "lastCrawled": "https://business.vic.gov.au/",
+  "urls": [
+    {
+      "url": "http://www.business.vic.gov.au/events/event-not-found",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/better-approvals-for-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/buylocal",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/international-chamber-house",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/ministerial-councils",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/retail-shopping-strips-forum",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/small-business-regulation-review",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/subscribe",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/subscribe/business-victoria-update-please-confirm-your-subscription",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/subscribe/business-victoria-update-subscription-confirmation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/about-us/supporting-small-businesses-in-dairy-communities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/accessibility",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support/aboriginal-business-grants-loans",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support/aboriginal-business-networks-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support/celebrate-the-success-of-Aboriginal-businesses-in-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support/victorian-aboriginal-business-directory",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/aboriginal-business-support/yuma-yirramboi-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/business-planning-tool",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/buy-a-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/buy-a-business/assess-a-business-before-you-buy-it",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/buy-a-business/buy-a-franchise",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/buy-a-business/buy-an-existing-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/construction-industry-regulation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/daylight-saving",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/are-you-prepared",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/are-you-prepared/plan-and-prepare-for-a-bushfire",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/are-you-prepared/plan-and-prepare-for-drought",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/are-you-prepared/plan-and-prepare-for-floods-and-storms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/business-resilience",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-recover",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-recover/assess-the-damage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-recover/plan-your-return-to-normal",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-recover/recovering-from-a-bushfire",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-recover/recovering-from-a-bushfire/2024-25-western-victoria-bushfire-supports",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/how-to-respond",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/stay-informed-during-emergencies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/disaster-resilience/stories-of-business-resilience-and-recovery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/build-a-blog",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/build-a-website",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/build-a-website/choose-and-register-a-domain-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/build-a-website/know-what-to-ask-your-web-developer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/build-a-website/make-your-website-a-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/choose-the-right-hardware-and-software",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/develop-a-digital-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/find-customers-online",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/sell-from-a-business-website",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/sell-in-online-marketplaces",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/website-analytics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/website-analytics/do-keyword-research",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/website-analytics/improve-your-seo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/ecommerce/website-analytics/measure-website-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/event-planner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/event-planner-RETIRED/survey",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/event-planner-RETIRED/survey-competition-terms-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business/dissolve-a-business-partnership",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business/financial-and-legal-preparation-before-selling-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business/find-a-buyer-or-successor-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business/increase-your-business-value-before-selling",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/exit-your-business/steps-to-close-a-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/cash-flow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/cash-flow/avoid-cash-flow-problems-and-keep-the-money-coming-in",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/cash-flow/cash-flow-forecasting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/cash-flow/improve-your-cash-flow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/cash-flow/use-working-capital-cycle-to-increase-your-cash",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/accounting-and-financial-policies-and-procedures",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/align-your-finances-to-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/calculate-profit-and-loss",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/check-the-financial-health-of-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/identify-the-warning-signs-your-business-is-in-trouble",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/prepare-a-profit-and-loss-budget",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/set-up-a-stock-control-process",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/set-up-good-record-management-systems",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/develop-good-financial-procedures/understand-basic-bookkeeping-principles",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/april-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/august-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/december-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/february-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/january-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/july-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/june-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/march-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/may-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/november-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/october-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/regular-financial-tasks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/financial-calendar/september-financial-planning-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/get-help-when-youre-in-debt",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/get-paid-on-time",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/get-paid-on-time/manage-overdue-payments-and-debt-recovery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/get-paid-on-time/write-an-invoice",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/manage-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/manage-suppliers/find-suppliers-and-maintain-supplier-relationships",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/manage-suppliers/manage-payments-to-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/pricing-for-profit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/pricing-for-profit/calculate-your-breakeven-point-margin-and-markup",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/pricing-for-profit/develop-a-pricing-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/pricing-for-profit/develop-discount-strategies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/pricing-for-profit/set-prices-for-improved-profit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital/apply-for-a-business-loan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital/deal-with-your-bank-and-loan-default",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital/plan-successful-crowdfunding-and-crowd-sourced-funding",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital/refinance-your-business-loan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/raise-capital/sources-of-finance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/choose-business-accounting-software",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/find-a-bookkeeper",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/find-a-lawyer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/find-an-accountant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/manage-business-finances",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/finance/set-up-your-finances/open-a-business-bank-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/grow-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/grow-your-business/create-opportunities-to-grow-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/grow-your-business/improve-employee-innovation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/grow-your-business/measure-for-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/advertise-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/benchmark-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/brand-your-business-for-a-competitive-edge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/define-and-know-your-customer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/do-market-research",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/identify-your-customers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/keep-customers-with-customer-service-excellence",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/marketing-strategies-and-tactics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/where-to-find-statistics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/write-a-marketing-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/refund-and-payment-basics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government/complete-a-government-tender-response",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government/find-government-contacts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government/finding-government-quotes-and-tenders",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government/tips-for-winning-government-contracts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/selling-to-government/understand-victorian-government-contracts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/social-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/social-media/generate-business-leads-with-social-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/social-media/manage-social-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/social-media/measure-your-social-media-results",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/social-media/use-social-media-to-boost-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/using-email-marketing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/marketing-and-sales/write-a-content-marketing-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness/care-for-a-business-owner-with-a-critical-ilness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness/get-a-temporary-caretaker",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness/make-decisions-when-critically-ill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness/steps-to-deal-with-an-illness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/deal-with-illness/work-with-a-critical-illness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/find-the-right-insurance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/handle-disputes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/handle-disputes/retail-lease-and-commercial-disputes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/handle-disputes/solve-customer-complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/it-policies-and-procedures",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/manage-cyber-security-in-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/protect-your-business-name-or-idea",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/risk-management",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/risk-management/evaluate-business-risk",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/risk-management/prepare-a-risk-management-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/protect-your-business/stay-within-the-law",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/operating-on-a-restricted-trading-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/croatian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/greek",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/indonesian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/korean",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/macedonian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/persian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/polish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/public-holiday-information-in-japanese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/russian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/sinhalese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/spanish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/thai",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/turkish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/public-holidays-in-languages-other-than-english/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2022",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-non-metropolitan-public-holidays-2026",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2018",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2019",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2020",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2022",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2026",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2027",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/employ-casual-workers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/employee-pay-rates-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/employee-payroll-tax-and-payg",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/equal-opportunity-act-for-employers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/keep-good-staff-records",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/make-your-business-OHS-ready",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/set-up-flexible-work-arrangements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employer-responsibilities/superannuation-payments-for-new-employees",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employing-children",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/employment-types-and-hiring-options",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/ending-employment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/ending-employment/deal-with-redundancy-and-retrenchment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/ending-employment/dismiss-staff-properly",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/ending-employment/jobs-victoria-local-employment-transition-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english/chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english/greek",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english/italian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english/turkish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-in-languages-other-than-english/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/how-is-long-service-leave-calculated",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/how-long-service-leave-can-be-taken",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-act-2018-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-an-overview",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-change-of-employer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-continuous-employment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-employment-termination",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/long-service-leave-penalties-for-breaches",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/lsl-small-business-information-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/portable-long-service-leave",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-leave",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-leave/employee-entitlements-to-public-holidays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-leave/manage-sick-personal-and-carers-leave",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-leave/manage-staff-annual-leave-and-leave-loading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-leave/parental-leave-policies-and-staff-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/communication-skills-in-the-workplace-for-managers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/create-a-desirable-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/engage-staff-and-reduce-turnover",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/manage-role-changes-in-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/review-staff-performance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-management/train-and-develop-staff",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/conduct-interviews-and-choose-staff",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/hire-staff",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/staff-induction-and-probationary-period",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/workforce-planning",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/write-a-contractual-letter-of-offer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/staff-and-hr/staff-recruitment/write-job-descriptions-and-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/become-a-business-owner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/become-an-independent-contractor",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/choose-the-right-business-structure",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/company",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/cooperative",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/incorporated-aboriginal-corporation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/incorporated-association",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/partnership",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/social-enterprise",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/sole-trader",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/business-structures/trust",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/calculate-your-costs-to-start-a-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/buy-a-business-premises",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/lease-a-business-premises",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/research-your-location",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/set-up-your-premises",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/start-a-home-based-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/understand-lease-agreements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-a-location-and-set-up-premises/understand-permits-zoning-and-approvals",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/choose-and-register-your-business-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/create-your-business-vision-statement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/develop-a-new-product-or-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/is-your-hobby-a-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/licences-and-registrations",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/start-a-food-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/talk-to-a-business-adviser",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/start-a-business/write-a-business-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/cut-energy-costs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/design-sustainable-fashion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/design-sustainable-products",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/environmental-audits-and-impact-assessment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/environmentally-friendly-building",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/managing-energy-costs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/reduce-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/sustainability/sustainability-in-graphic-and-web-design",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/tourism-industry-resources",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/transport-and-forestry-resources",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/create-a-mentally-healthy-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/get-crisis-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/manage-stress-at-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/wellbeing-and-mental-health-support-for-small-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/wellbeing-resources-for-small-business-advisers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/business-information/workplace-wellbeing/workplace-wellbeing-in-languages-other-than-english/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/business-support-fund-reassessments",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/business-support-fund-reassessments/business-support-fund-reassessments-list-of-eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/business-support-fund-reassessments/expression-of-interest",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/contact-form-submitted",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/contact-us/contact-form-submitted-2024-25-western-victoria-bushfires",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/copyright",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/disclaimer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/freedom-of-information",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/2020-bushfire-emergency-response-grant-to-assist-indigenous-corporations_OLD",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/2025-victorian-manufacturing-hall-of-fame-awards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-energy-investment-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-energy-investment-plan/on-farm-energy-assessment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-energy-investment-plan/on-farm-energy-tier-one-grants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-energy-investment-plan/on-farm-energy-tier-two-grants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-tafe-and-training-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/agriculture-tafe-and-training-fund/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/alpine-resorts-support-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/alpine-resorts-support-program/alpine-resorts-support-program-stream-three-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/alpine-resorts-winter-support-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-advice",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-and-community-sport-flood-recovery-grants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-and-community-sport-flood-recovery-grants/eligible-lgas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-and-community-sport-flood-recovery-grants/evidence-and-documentation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-and-community-sport-flood-recovery-grants/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-and-community-sport-flood-recovery-grants/stakeholder-pack",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-chambers-and-trader-groups-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-five",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-five/eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-four",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-four/business-costs-assistance-program-round-four-eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three-12-august-2021-top-up-for-metropolitan-melbourne",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three-12-august-2021-top-up-for-metropolitan-melbourne/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three-19-and-22-august-2021-top-up",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three-19-and-22-august-2021-top-up/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-three/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/how-to-view-and-update-your-anzsic-classification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/update-your-application",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-july-extension/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program-round-two-june-top-up-payment-eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/business-costs-assistance-program-round-two-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/business-costs-assistance-program-round-two-languages-other-than-english",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/targeted-stream-car-wash-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/targeted-stream-tab-agencies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/update-your-application",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/business-costs-assistance-program/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-grants-and-top-up-payments/tourism-supplement-6-june-2021-eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/business-costs-assistance-program-view-and-update-your-anzsic-classification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-costs-assistance-program-round-four-construction/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-groups-flood-recovery-grants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-groups-flood-recovery-grants/eligible-local-government-areas-and-regions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-groups-flood-recovery-grants/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-advisory-service-2024-25-western-victoria-bushfires",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-advisory-service-2024-25-western-victoria-bushfires/business-recovery-advisory-service-registration-form",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/dari",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/farsi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/filipino",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/khmer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/korean",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/macedonian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/sinhalese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/tamil-south-indian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/tamil-sri-lankan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/turkish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-recovery-and-resilience-mentoring/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-relief-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/business-relief-service/registration-complete",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/16-july-2021-top-up-payment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/21-july-2021-top-up-payment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021-top-up-payments-and-cbd-payment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/traditional-chiense",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/circuit-breaker-business-support-package/licensed-hospitality-venue-fund-2021/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3/commercial-landlord-hardship-fund-3-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-3/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-4",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-4/calculator-commercial-landlord-hardship-fund-4",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-4/commercial-landlord-hardship-fund-4-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/calculator-commercial-landlord-hardship-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/commercial-landlord-hardship-fund-round-2-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/somali",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-landlord-hardship-fund-round-2/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/commercial-tenancy-relief-scheme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/covid-19-test-isolation-payment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/covid-safe-deep-cleaning-rebate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/covid-safe-deep-cleaning-rebate/covidsafe-deep-cleaning-rebate-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/covidsafe-outdoor-activation-voucher-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/digital-jobs-for-manufacturing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/digital-jobs-for-manufacturing/case-studies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/digital-jobs-for-manufacturing/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/distillery-support-business-growth-fit-for-purpose-grants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/distillery-support-hazardous-areas-and-dangerous-goods-rebate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/distillery-support-infrastructure-and-boosting-visitor-economy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/enabling-tourism-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/enabling-tourism-fund/enabling-tourism-fund-2024-frequently-asked-questions-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/farming-and-community-group-drought-funding",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/first-peoples-covid-19-business-support-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/first-peoples-covid-19-business-support-fund-extension",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/first-peoples-tourism-industry-strengthening-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/get-active-kids-voucher-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/global-discovery-exchange",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/global-gateway-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/industry-r-d-infrastructure-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/industry-r-d-infrastructure-fund/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/jiangsu-victoria-technology-and-innovation-r-and-d-program-vicjs-tech",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/latrobe-valley-supply-chain-transition-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/latrobe-valley-supply-chain-transition-program/supply-chain-company",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/licensed-hospitality-venue-fund-2021-july-extension/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/low-carbon-manufacturing-grant-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/low-carbon-manufacturing-grant-program/low-carbon-manufacturing-grant-program-business-growth-stream",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/low-carbon-manufacturing-grant-program/low-carbon-manufacturing-grant-program-business-growth-stream/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/low-carbon-manufacturing-grant-program/low-carbon-manufacturing-grant-program-business-readiness-stream",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/low-carbon-manufacturing-grant-program/low-carbon-manufacturing-grant-program-business-readiness-stream/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/made-in-victoria-energy-technologies-manufacturing-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/made-in-victoria-energy-technologies-manufacturing-program/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/made-in-victoria-manufacturing-growth-program-round-2",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/made-in-victoria-manufacturing-growth-program-round-2/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/manufacturing-and-industry-development-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/manufacturing-and-industry-development-fund/business-competitiveness-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/manufacturing-and-industry-development-fund/business-competitiveness-program/business-competitiveness-program-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/manufacturing-and-industry-development-fund/manufacturing-growth-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/manufacturing-and-industry-development-fund/manufacturing-growth-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/medtech-manufacturing-capability-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/medtech-manufacturing-capability-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mental-wellbeing-of-business-communities-grants-program_OLD/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mental-wellbeing-of-business-communities-grants-program-round-2",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mental-wellbeing-of-business-communities-grants-program-round-2/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/microenterprise-development-grants-program-2022",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/microenterprise-development-grants-program-2022/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mrna-victoria-research-acceleration-fund-round-3",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mrna-victoria-research-acceleration-fund-round-3/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mrna-victoria-research-acceleration-fund-round-four",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/mrna-victoria-research-acceleration-fund-round-four/mrna-victoria-research-acceleration-fund-round-four-frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/multicultural-business-chambers-and-trader-groups-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/multicultural-business-chambers-and-trader-groups-program/frequently-asked-questions-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/night-time-economy-business-support-initiative",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/night-time-economy-business-support-initiative/night-time-economy-business-support-initiative-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/pandemic-leave-disaster-payment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/partners-in-wellbeing-helpline",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/partners-in-wellbeing-helpline/eligible-local-government-areas-and-regions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/partners-in-wellbeing-helpline/small-business-support-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/premiers-sustainability-awards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/proof-of-identity-verification-user-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/rapid-antigen-test-allocation-pilot",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/rapid-antigen-test-allocation-pilot/eligible-anzsic-classes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/rapid-antigen-test-allocation-pilot/purchase-request-confirmation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/rapid-antigen-test-allocation-pilot/purchase-request-form",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/ready-for-growth",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/ready-for-growth/ready-for-growth-case-studies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/ready-for-growth/ready-for-growth-frequently-asked-questions-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/ready-for-growth/ready-for-growth-social-media-pack",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/regional-manufacturing-clusters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/regional-tourism-investment-fund-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/regional-tourism-investment-fund-2024/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/regional-tourism-investment-fund-competitive-round",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/regional-tourism-investment-fund-competitive-round/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/skills-solutions-partnerships",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/skills-solutions-partnerships/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-and-medium-events-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-and-medium-events-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-bus",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/eoi-submission-confirmation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/invitation-to-apply-non-qualified-agent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/proof-of-identity-verification-user-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-covid-hardship-fund/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-digital-adaptation-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-digital-adaptation-program/workshop-directory",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-immediate-flood-relief-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-immediate-flood-relief-program/eligible-lgas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-immediate-flood-relief-program/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-regulation-review,-visitor-economy-innovative-new-ventures",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-ventilation-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-ventilation-program/ventilation-grant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-ventilation-program/ventilation-grant/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-ventilation-program/ventilation-rebate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-business-ventilation-program/ventilation-rebate/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/small-scale-and-craft-program-stream-one-round-three",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/sme-recovery-loan-scheme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/social-enterprise-support-grants-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/social-enterprise-support-grants-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/solar-homes-program-mentoring-packages",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/specialist-advice-pathways-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/specialist-advice-pathways-program/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/specialist-advice-pathways-program/join-the-small-business-specialist-advice-pathways-program-waitlist",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/specialist-advice-pathways-program/waitlist-registration-successful",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/study-melbourne-inclusion-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/study-melbourne-inclusion-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/study-melbourne-inclusion-program/top-10-tips-for-a-successful-application",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/sustaining-creative-workers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/technology-adoption-and-innovation-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/technology-adoption-and-innovation-program/technology-adoption-and-innovation-program-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/highly-impacted-manufacturers-stream",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/highly-impacted-manufacturers-stream/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/how-to-view-and-update-your-anzsic-code",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/impacted-manufacturers-stream",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/impacted-manufacturers-stream/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/timber-supply-chain-resilience-package/impacted-manufacturers-stream/how-to-nominate-a-qualified-service-provider",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/updating-your-bank-account-details",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/updating-your-bank-account-details/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victoria-fellowships",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victoria-prize-for-science-and-innovation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-aboriginal-business-investment-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-aboriginal-business-investment-program/aboriginal-business-growth-program-grants-between-10K-and-100K",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-aboriginal-business-investment-program/aboriginal-business-support-program-grants-between-5K-and-10K",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-aboriginal-business-investment-program/communications-pack",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-aboriginal-business-investment-program/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-bushfires-concessional-loans",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/impacted-public-events-support-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/impacted-public-events-support-program-round-two",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/impacted-public-events-support-program-round-two/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/impacted-public-events-support-program/impacted-public-events-support-program-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/independent-cinema-support-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/independent-cinema-support-program/independent-cinema-support-program-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-presenters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-presenters-round-two",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-presenters-round-two/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-presenters/live-performance-support-program-presenters-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-suppliers-round-two",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-suppliers-round-two/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/live-performance-support-program-suppliers/live-performance-support-program-suppliers-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/sustainable-event-business-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-events-support-package/sustainable-event-business-program/sustainable-event-business-program-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-forestry-plan-gippsland-plantations-investment-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-land-systems-fund-supply-chain-uplift-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-land-systems-fund-supply-chain-uplift-program/frequently-asked-questions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-manufacturing-hall-of-fame",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-small-business-and-not-for-profit-flood-recovery-concessional-loans",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorias-on-farm-internet-of-things-trial",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/victorias-on-farm-internet-of-things-trial-second-round",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/visitor-servicing-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/visitor-servicing-fund/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/vistech",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/arabic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/dari",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/dinka",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/farsi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/filipino",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/hindi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/korean",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/macedonian",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/punjabi",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/simplified-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/sinhalese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/tamil",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/traditional-chinese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/turkish",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/wellbeing-and-mental-health-support-for-victorian-small-businesses/vietnamese",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/young-farmers-scholarship-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/grants-and-programs/zero-emissions-vehicles-commercial-sector-innovation-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/home",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/advanced-strategies-for-taking-your-business-online",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/cut-through-on-a-budget",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/cybersecurity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/from-bricks-and-mortar-to-online",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/generating-cash-flow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/innovators-mindset",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/introduction-to-child-employment-for-employers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/introduction-to-long-service-leave-for-employers-and-employees",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/live-webinar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/maximising-your-marketing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/people-processes-and-technology",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/recruitment-and-retention-for-modern-retail",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/resilience-resourcefulness-and-adaptability",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/social-media-marketing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/starting-your-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/strengthening-business-practices",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/taking-your-business-online",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/tell-the-story-your-customers-want-to-hear",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/courses-and-webinars/winning-government-grants-and-tenders",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/australian-pumpkin-seed-company",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/bellarine-distillery-the-whiskery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/bluethumb",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/brights-old-fashioned-lolly-shop",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/brunswick-bound",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/caravan-eggs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/christian-kimber",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/claire-and-co-music",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/cnbsafe",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/contactpoint",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/creative-revolution",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/dainton-brewery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/destination-accessible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/djm-fabrications",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/echuca-printers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/enable-social-enterprises-ltd",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/gb-financiials",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/get-coffee-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/hatch-quarter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/haus-of-dizzy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/heartland-records",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/impact-co",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/incarta-it",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/individually-tailored",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/issimo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/kelkay-jewellery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/kellee-flowers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/kia-ora-merino",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/kickbrick",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/lifepod",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/lmm-designs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/localing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/lucha-fantastica",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/marcus-lee-design",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/mark-douglass-designs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/melbournalia",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/mildura-chocolate-company",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/monsieur-truffe",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/ngali",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/organise-curate-design",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/pamo-industries",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/paper-scissors-rock-brew-co",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/parentmedic-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/pawdinkum",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/people-first-healthcare",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/perfect-again",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/pureflow-total-exterior-cleaning",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/raining-spirit-dojo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/roses-gap-recreation-centre",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/sisterworks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/st-ali",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/st-annes-winery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/tarra-valley-caravan-park",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/the-common-good",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/the-difference-incubator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/the-mc-showroom",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/the-usual-joint",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/uncles-smallgoods",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/wendy-scully-millinery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/your-sold-real-estate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/faces-of-small-business/yume",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/10-tips-to-better-interviewing-and-hiring-for-small-business-owners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/10-tips-to-make-your-small-business-website-a-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-aboriginal-owned-businesses-to-support-this-reconciliation-week",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-christmas-gifts-that-support-victorian-small-business-2019",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-gifts-that-support-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-victorian-small-business-christmas-gift-ideas-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-victorian-small-business-christmas-gift-ideas-2022",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-victorian-small-business-christmas-gift-ideas-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-victorian-small-business-christmas-gift-ideas-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/12-victorian-small-business-gift-ideas-2020",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/2024-small-business-guide-to-online-shopping-days-click-frenzy-black-friday-and-more",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/3-marketing-automation-strategies-every-business-should-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/3-marketing-automation-strategies-every-business-should-use2",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/3-tips-for-good-record-keeping-from-the-ato",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/3-ways-to-do-a-small-business-health-check",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/3-ways-to-guarantee-success-in-family-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-foolproof-ways-to-manage-business-stress",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-intellectual-property-considerations-for-software-ownership",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-things-to-ask-yourself-before-engaging-a-patent-attorney",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-ways-data-science-can-help-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-ways-smes-can-close-the-gender-pay-gap",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-ways-to-attract-the-best-talent-to-your-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/4-ways-to-manage-your-mental-health-while-running-a-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-business-trends-to-expect-in-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-creative-ways-to-get-your-business-noticed",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-easy-ways-to-create-effective-social-media-posts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-essential-tips-for-managing-teams-remotely",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-reasons-why-gender-equity-can-improve-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-reasons-you-should-consider-government-as-a-client",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-steps-towards-gender-equality-in-your-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-things-that-make-small-businesses-more-innovative",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-tips-for-your-small-business-in-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-tips-to-build-your-business-with-great-clients",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-ways-sustainability-practices-are-good-for-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-ways-the-ato-is-tackling-the-black-economy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-ways-to-find-and-keep-the-best-employees",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-ways-to-make-your-online-store-thrive",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-ways-you-can-support-women-in-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/5-wellbeing-and-mental-health-tips-for-small-business-owners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-cybersecurity-tips-for-remote-working",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-financial-year-resolutions-for-your-small-business-that-youll-actually-keep",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-seasonal-strategies-for-small-businesses-in-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-steps-to-better-password-hygiene",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-steps-to-create-a-mentally-healthy-and-vibrant-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-steps-to-prepare-your-business-for-a-bushfire",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-tasks-to-lead-your-business-into-the-new-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-tips-for-small-business-success-in-2022",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-tips-to-help-businesses-avoid-financial-difficulties",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/6-ways-to-turn-your-great-idea-into-a-great-startup",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-ip-mistakes-businesses-make",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-lessons-learned-from-female-entrepreneurs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-social-media-trends-to-watch-in-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-steps-to-protect-your-ip-overseas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-steps-to-reduce-email-anxiety",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-things-creative-freelancers-like-me-never-talk-about-but-should",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/7-undercover-ways-to-find-fresh-content-marketing-ideas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/8-to-do-list-productivity-boosters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/8-ways-to-make-the-most-of-any-networking-event",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/9-essential-steps-to-prepare-for-a-natural-disaster",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/9-habits-of-successful-business-owners-and-entrepreneurs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/9-ways-to-get-invoices-paid-faster",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/a-guide-to-choosing-a-shop-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/a-quick-guide-to-getting-your-2023-tax-return-right",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/a-starters-guide-to-paid-search-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/are-business-networking-groups-right-for-you",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/bas-lodgement-advice-from-the-ato",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/bootstrapping-vs-raising-capital-investment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/boundaries-over-balance-how-to-juggle-parenting-with-running-a-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/can-anyone-be-a-business-owner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/cheers-to-aussie-craftsmanship-australian-made-week-is-back",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/claiming-gst-credits-a-simple-guide-from-the-ato",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/clubhouse-is-the-latest-social-media-trend-right-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/create-opportunities-for-your-business-with-open-innovation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/crunching-the-numbers-what-the-cereal-aisle-teaches-you-about-your-customers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/cyber-security-awareness-month-2023-be-cyber-wise-dont-compromise",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/diversity-promotes-success-heres-why-it-should-matter-to-you",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/do-you-have-a-data-backup-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/doing-business-differently-for-a-sustainable-future",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/doing-business-with-cryptocurrency",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/dont-hire-ip-problems-when-recruiting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/eco-wrapping-and-packaging-alternatives-for-small-businesses-this-christmas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/embracing-diversity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/embracing-small-business-magic-on-valentines-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/failure-is-an-option-when-to-stay-on-course-and-when-to-pivot",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/food-export-opportunities-in-the-uae",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/get-discomfortable",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/get-your-business-off-to-the-right-start-for-the-new-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/go-green-and-cut-your-energy-costs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/go-green-reduce-waste-and-increase-profits",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-a-professional-business-namer-comes-up-with-ideas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-a-registered-trade-mark-can-grow-your-sales-and-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-attract-and-retain-the-right-talent-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-avoid-multi-factor-authentication-prompt-bombing-cyber-attacks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-build-a-flexible-quasi-remote-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-build-your-brand-with-podcasts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-get-better-pr-tips-from-the-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-get-your-business-ready-for-single-touch-payroll",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-minimise-waste-in-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-prepare-for-seasonal-events-throughout-the-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-prevent-legal-disputes-before-they-happen",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-protect-your-business-from-business-email-compromise-bec",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-purchase-major-equipment-in-7-easy-steps",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-remotely-hire-high-performers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-respond-to-negative-online-reviews",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-set-up-your-own-business-email-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-stay-cyber-safe-between-offsite-and-onsite-workplaces",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-to-support-your-employees-coming-back-to-the-office",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-work-stress-affects-fathers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/how-you-can-support-the-mental-wellbeing-of-small-business-owners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/i-know-i-need-to-network-but-where-do-i-start",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/importexport-tax-implications-every-business-owner-should-know",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/improve-your-website-copy-fast",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/international-womens-day-from-dreamers-to-doers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/is-your-business-prepared-for-the-bag-ban",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/is-your-marketing-breaking-spam-laws",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/its-not-too-late-to-get-stp-ready",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/keep-the-fire-burning-connecting-with-first-nations-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/keep-your-business-on-track-during-rail-disruptions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/keeping-your-business-cyber-safe",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/lets-talk-about-super-guarantee",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/make-business-planning-part-of-your-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/managing-work-related-violence",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/new-au-domain-names-7-things-your-business-should-know",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/nothing-left-in-the-tank-10-strategies-to-avoid-burnout-in-your-small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/paying-online-make-sure-you-check-these-3-red-flags",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/pros-and-cons-of-a-social-enterprise",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/recognising-and-protecting-your-business-from-cybersecurity-threats",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/remote-access-scams-how-can-your-business-identify-and-avoid-them",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/retail-leases-in-victoria-4-things-to-know-before-you-sign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/small-business-in-victoria-by-the-numbers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/spyware-and-stalkerware-how-to-check-and-protect-your-business-devices",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/stop-and-follow-these-4-steps-to-increase-your-cybersecurity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/surviving-and-thriving-in-a-changing-business-environment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/tax-deductions-your-business-could-claim-this-financial-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/the-business-behind-christmas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/the-essential-small-business-guide-to-cybersecurity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/the-future-of-work-is-flexible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/three-mentors-share-tips-that-most-surprise-their-small-business-clients",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/tips-for-small-businesses-to-overcome-seasonality",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/tips-to-help-you-this-tax-time",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/top-3-marketing-tips-from-an-international-entrepreneur",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/top-tips-from-2024-to-help-you-thrive-in-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/trade-marks-in-china-a-different-world",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/try-these-8-tips-to-get-more-people-reading-your-linkedin-posts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/use-this-time-to-prepare-your-business-to-supply-government",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/what-are-your-tax-obligations-in-the-sharing-economy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/what-social-enterprise-can-learn-from-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/what-victorias-social-procurement-framework-means-for-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/what-will-you-do-in-summer-when-the-work-disappears",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/what-you-should-know-when-using-ai-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-a-simple-update-policy-could-save-your-business-from-cyber-attacks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-getting-it-right-offline-helps-you-online",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-unboxing-should-be-part-of-every-online-retailers-marketing-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-you-should-develop-your-leadership-style-and-how-to-do-it",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-your-business-should-consider-epayment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/why-your-website-is-your-best-salesperson",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/working-successfully-with-an-overseas-manufacturer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/your-business-can-support-businesses-in-bushfire-affected-regions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/hub/your-ultimate-small-business-guide-to-influencer-marketing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/virtual-advice-sessions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/workshops-and-small-business-bus",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/$250-million-victorian-business-growth-fund-established",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/finalists-announced-for-2019-manufacturing-hall-of-fame",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/labour-hire-licensing-scheme-comes-into-effect-29-april",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/local-jobs-first-information-sessions-for-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/myvictoria-wins-good-design-award",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/new-certainty-on-retail-leases-for-business-owners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/new-energy-rights-to-protect-victorian-consumers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/new-portable-long-service-scheme-for-community-services,-contract-cleaning-and-security-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/red-tape-reforms-to-cut-construction-business-costs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/small-business-transformation-grants-and-support-services-for-melbournes-cbd",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/victoria-records-highest-small-business-growth-in-australia",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2019/victorian-tourism-hits-new-milestone",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/big-boost-in-financial-support-to-help-businesses-adjust-to-covid-normal",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/bushfire-recovery-victoria-to-guide-rebuilding-and-recovery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/business-and-sport-for-bushfire-recovery-to-support-tourism-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/federal-government-announces-small-business-bushfire-recovery-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/free-contact-tracing-qr-codes-now-available-for-victorian-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/giving-small-businesses-a-say-on-equal-pay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/help-for-sole-traders,-hospitality-businesses-and-local-councils-on-the-roadmap-to-recovery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/jobkeeper-extended-to-march-2021-to-give-businesses-a-lifeline-to-recovery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/small-businesses-to-benefit-from-default-offer-extension-to-embedded-networks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/victorian-government-announces-business-support-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/victorian-government-commits-to-fairer-payment-terms-for-sme-suppliers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2020/victorian-government-continues-rollout-of-support-initiatives-for-business-owners-and-sole-traders",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/21-july-2021-business-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/achieving-gender-pay-equality-in-small-to-medium-enterprises",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/agriculture-sector-pledge-to-back-victorian-farmers-work-towards-a-cleaner-greener-industry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/applications-reopen-for-small-business-digital-adaptation-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/bonuses-available-for-small-businesses-who-switch-to-energy-efficient-equipment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/business-support-and-eased-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/buy-local-to-support-small-businesses-this-spring",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/density-limits-to-lift-on-small-to-medium-sized-venues-across-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/disaster-assistance-payments-for-businesses-left-without-power-due-to-june-storms-in-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/extended-support-for-victorian-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/extra-support-for-Victorian-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/government-backs-local-brewers-winemakers-and-distillers-with-1-5-million-dollar-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/grant-applications-now-open-for-melbourne-business-events-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/horsham-yarriambiack-and-hindmarsh-latest-councils-to-pledge-support-for-small-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/investment-boost-for-women-led-startups-and-entrepreneurs-through-the-alice-anderson-fund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/investment-plan-for-victorias-innovation-and-startup-sector",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/jobs-skills-and-economic-recovery-top-priorities-in-victorian-budget-202122",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/live-music-venues-fitness-and-offices-to-benefit-from-further-easing-of-covidsafe-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/loans-available-to-smes-and-startups-looking-to-invest-in-research-and-development",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/more-support-for-melbourne-businesses-19-august-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-laws-pass-faster-and-simpler-workers-compensation-dispute-resolution-process-for-injured-Victorians",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-protections-for-franchisees-in-the-updated-franchising-code-of-conduct",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-scheme-to-cut-red-tape-and-build-a-more-mobile-workforce-for-businesses-and-licensed-workers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-support-announced-for-victorian-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-support-package-announced-for-businesses-affected-by-5-day-circuit-breaker",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/new-support-package-for-events-businesses,-suppliers-and-performers-affected-by-victorias-latest-covid-19-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/relief-for-melbourne-smes-and-sole-traders-as-extra-funding-announced-for-businesses-still-affected-by-extended-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/rent-relief-on-the-way-for-commercial-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/scam-alert-text-message-scam-business-costs-assistance-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/secure-work-pilot-scheme-have-your-say",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/small-business-bus-is-back-to-support-local-business-owners-for-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/solar-rebates-for-small-businesses-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/staged-return-to-work-resumes-with-updates-to-capacity-limits-and-mask-wearing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/support-continues-for-victorias-regional-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/support-for-businesses-in-regional-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/support-for-construction-businesses-affected-by-lockdown",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/supporting-regional-businesses-when-they-need-it-most",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/supporting-victorian-businesses-through-to-reopening",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/taking-it-outdoors-supporting-a-safer-way-to-open",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/victoria-takes-steps-towards-workplace-gender-equality-in-australian-first",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/victoria-to-return-to-covidsafe-summer-with-some-changes-to-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2021/worksafe-inspectors-will-soon-be-able-to-issue-on-the-spot-fines-to-employers-for-health-and-safety-breaches",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/a-new-victorian-government-grant-program-will-help-grow-medical-technology",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/celebrating-victorias-aboriginal-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/changes-to-super-and-wages-coming-into-effect-from-july",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/density-limit-dancefloor-and-qr-code-restrictions-to-ease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/family-friendly-street-festival-set-to-return-to-melbournes-iconic-chapel-street",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/family-friendly-street-festival-set-to-return-to-melbournes-iconic-high-street-northcote",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/finalists-announced-for-2022-manufacturing-hall-of-fame",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/free-business-planning-tool-now-available-for-all-victorian-business-owners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/helping-businesses-hit-by-floods",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/high-vax-rate-means-that-most-restrictions-can-safely-ease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/how-to-have-open-conversations-on-workplace-wellbeing-this-r-u-ok-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/its-now-easier-for-small-businesses-to-check-and-register-a-trade-mark",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/liquor-control-victoria-the-new-body-to-oversee-liquor-licensing-and-regulation-in-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/manufacturing-grant-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/medtech-manufacturing-capability-program-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/more-rent-relief-now-available-for-small-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/more-support-for-flood-affected-businesses-farmers-and-community-sport",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/nane-tax-status-confirmed-for-covid-19-grant-payments",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/new-digital-marketplace-to-connect-local-tech-businesses-with-government-contracts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/new-funding-for-victorian-manufacturers-and-businesses-through-the-supply-chain-uplift-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/now-easier-for-businesses-to-go-solar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/portable-long-service-leave-providing-benefits-for-thousands-of-victorias-key-workers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/reminder-to-reserve-your-au-direct-domain-before-the-20-september-deadline",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/return-to-the-office-mask-rules-and-vaccination-requirement-updates",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/sensible-changes-to-pandemic-orders",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/sick-and-carers-pay-for-victorias-casual-and-contract-workers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/single-use-plastics-ban-6-months-to-go",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/small-businesses-lose-over-3-5-million-to-scammers-in-2021-according-to-accc-report",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/the-future-is-made-in-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/upgraded-workwell-toolkit-makes-tackling-workplace-mental-health-simpler-and-easier",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/victorian-and-senior-travel-vouchers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2022/victorian-government-announces-200-million-business-stimulus-package",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/aboriginal-businesswomen-on-the-world-stage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/accc-urges-businesses-to-remove-unfair-contract-terms-ahead-of-law-changes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/australian-businesses-optimistic-about-ai",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/business-readiness-low-carbon-manufacturing-grant-program-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/changes-to-repackaged-beer-excise-duty-requirements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/chinas-trade-expo-to-boost-victorian-exports",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/finalists-for-the-2023-victorian-manufacturing-hall-of-fame-awards-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/jobs-victoria-can-connect-your-business-to-future-tech-talent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/low-carbon-manufacturing-grant-program-business-growth-stream-grant-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/made-in-victoria-manufacturing-growth-program-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/making-it-easy-to-validate-a-working-with-children-check",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/new-food-safety-standards-from-december-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/seniors-and-veterans-cards-go-digital",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/single-use-plastics-ban-applies-1-february-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/the-digital-innovation-futures-festival-2023-is-set-to-ignite-curiosity-and-spark-connections",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/the-green-way-to-clean-out-your-office",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2023/victorias-new-container-deposit-scheme-is-here",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/are-you-looking-to-purchase-a-commercial-or-industrial-property-for-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/celebrating-world-msme-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/connect,-learn-and-share-at-worksafes-health-and-safety-month",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/energy-incentives-and-instant-asset-write-offs-for-small-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/finalists-for-the-2024-victorian-manufacturing-hall-of-fame-awards-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/google-business-profile-website-shutdown-what-small-businesses-need-to-know",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/made-in-victoria-energy-technologies-manufacturing-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/made-in-victoria-manufacturing-growth-program-round-2-recipients-announced",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/northcote-rise-festival-returns",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/october-is-cyber-security-awareness-month-2024-make-cyber-security-your-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/october-is-indigenous-business-month",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/stay-alert-for-scams-is-that-really-business-victoria",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/the-lara-food-and-wine-festival-returns-in-march-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/the-new-toolkit-helping-small-businesses-close-the-gender-pay-gap",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/unlock-opportunities-at-the-inaugural-maldon-business-expo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2024/world-password-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/aboriginal-business-investment-program-successful-applicants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/australian-open-where-business-meets-opportunity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/boosting-business-skills-mentoring-program",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/celebrate-and-reflect-during-cultural-diversity-week-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/celebrating-international-childrens-book-day-with-sally-rippin",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/celebrating-small-business-in-the-year-of-the-snake",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/from-food-trucks-to-fine-dining-why-melbournes-culinary-businesses-are-world-class-in-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/melbourne-fashion-festival",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/news-and-updates/2025/the-grampians-are-open-and-ready-to-do-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/privacy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/privacy/detailed-privacy-statement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/ablis",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/business-planning-tool",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/business-victoria-event-planner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/cash-flow-forecasting-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/chart-of-accounts-example",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/choose-the-right-business-structure-step-by-step-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/communications-guidelines-for-business-victoria-grant-recipients-and-delivery-partners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/communications-guidelines-for-business-victoria-grant-recipients-and-delivery-partners/business-victoria-logo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/content-marketing-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/cost-of-unscheduled-leave-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/crisis-planning-template-and-checklists",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/critical-information-list",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/design-brief-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/detailed-job-description-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/disaster-resilience-for-business-toolkit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/exit-interview-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/final-notice-email-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/financial-policies-and-procedures-manual-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/financial-statements-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/follow-up-contact-script-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/friendly-reminder-email-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/hr-policies-and-procedures-manual-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/improve-the-operation-and-maintenance-of-refrigeration-and-cooling-equipment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/it-policies-and-procedures-manual-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/job-ad-for-online-example",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/job-ad-for-print-example",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/job-interview-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/leading-your-business-during-disasters-checklist",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/letter-of-demand-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/letter-of-offer-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/long-service-leave-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/marketing-action-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/marketing-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/new-customer-engagement-letter-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/one-month-probationary-period-review-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/one-page-action-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/overdue-email-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/pay-overtime-or-employ-new-staff-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/performance-and-development-agreement-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/privacy-policy-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/professional-development-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/reference-check-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/risk-register-and-treatment-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/selection-criteria-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/simple-job-description-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/staff-details-form-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/staff-productivity-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/staff-turnover-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/three-month-probationary-period-review-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/workforce-action-plan-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/workforce-information-template",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/working-from-home-safety-and-wellbeing-checklist",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.vic.gov.au/tools-and-templates/writing-a-business-plan-guide",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://business.vic.gov.au/learning-and-advice/workshops-and-small-business-bus/view",
+      "status": "301 Moved Permanently Redirect: http://www.business.vic.gov.au/events/event-not-found"
+    },
+    {
+      "url": "/E23356",
+      "status": "Failed to parse URL from /E23356"
+    },
+    {
+      "url": "/E25200",
+      "status": "Failed to parse URL from /E25200"
+    },
+    {
+      "url": "/E25202",
+      "status": "Failed to parse URL from /E25202"
+    },
+    {
+      "url": "/E25204",
+      "status": "Failed to parse URL from /E25204"
+    },
+    {
+      "url": "/E25205",
+      "status": "Failed to parse URL from /E25205"
+    },
+    {
+      "url": "/E25216",
+      "status": "Failed to parse URL from /E25216"
+    },
+    {
+      "url": "/E25242",
+      "status": "Failed to parse URL from /E25242"
+    },
+    {
+      "url": "/E25243",
+      "status": "Failed to parse URL from /E25243"
+    },
+    {
+      "url": "/E25260",
+      "status": "Failed to parse URL from /E25260"
+    },
+    {
+      "url": "/E25271",
+      "status": "Failed to parse URL from /E25271"
+    },
+    {
+      "url": "/E25273",
+      "status": "Failed to parse URL from /E25273"
+    },
+    {
+      "url": "/E25286",
+      "status": "Failed to parse URL from /E25286"
+    },
+    {
+      "url": "/E25294",
+      "status": "Failed to parse URL from /E25294"
+    }
+  ]
+}
