@@ -1,0 +1,16 @@
+{
+  "originUrl": "https://us.az-oncology-pipeline.com",
+  "lastCrawled": "https://us.az-oncology-pipeline.com/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
