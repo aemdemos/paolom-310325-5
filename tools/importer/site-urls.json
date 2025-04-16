@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://us.az-oncology-pipeline.com",
+  "lastCrawled": "https://us.az-oncology-pipeline.com/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://us.az-oncology-pipeline.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://us.az-oncology-pipeline.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html"
+    }
+  ]
+}
