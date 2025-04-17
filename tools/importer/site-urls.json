@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://corporate.walmart.com",
+  "lastCrawled": "https://corporate.walmart.com/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://corporate.walmart.com/",
+      "status": "456 Unknown"
+    }
+  ]
+}
