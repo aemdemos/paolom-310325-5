@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://academy.worldbank.org",
+  "lastCrawled": "https://academy.worldbank.org/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://academy.worldbank.org/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://academy.worldbank.org/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html;charset=utf-8"
+    }
+  ]
+}
