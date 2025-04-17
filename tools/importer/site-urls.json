@@ -1,0 +1,678 @@
+{
+  "originUrl": "https://academy.worldbank.org",
+  "lastCrawled": "https://academy.worldbank.org",
+  "urls": [
+    {
+      "url": "https://academy.worldbank.org/en/cross-cutting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/cross-cutting/gender",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/cross-cutting/gender/reproductive-health-from-advocacy-to-action-gender-equality-and-development",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/cross-cutting/jobs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/digital",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/digital/digital-transformation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/digital/digital-transformation/global-digital-summit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/digital/digital-transformation/trade-facilitation-and-standards-compliance-digital-public-infrastructure",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/events",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/home",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/how-we-work",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/energy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/energy/utilities-knowledge-exchange-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/asset-recycling",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/basics-of-ppps-and-project-finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/infrastructure-hot-topics",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-certification-program-c3p3",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-e-learning-modules",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-gender-toolkit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-reference-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport/connectivity-and-logistics-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport/leaders-in-urban-transport-planning",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport/road-safety-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport/transforming-transportation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/transport/transport-funding-and-resilience-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/city-credit-worthiness-initiative",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/city-resilience-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/emergency-preparedness-response-lessons-learned-exercise-series",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/gpsc-regional-city-academy-in-asia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/land-conference",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/municipal-finances",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/nature-based-solutions-capacity-building-series",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/roadmap-for--safer-and-resilient",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/Smart-cities-for-sustainable-development",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/solid-waste-management",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/tokyo-development-learning-center-technical-deep-dives",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/understanding-risk-forum",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/urban-upgrading-for-inclusion-sustainability-and-resilience-in-a-time-of-global-pandemics",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-instrument",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-sector",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/accelerating-emobility",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/climate-risk-finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/debt-vulnerability-resilience",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/domestic-resource-mobilization",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/drought-management",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-for-the-poor",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-through-local-value-chain",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/low-methane-rice",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/powering-utilities",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/by-theme/sustaining-health-financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/our-programs/guarantees",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/capacity-building-for-learning-and-dev-professionals",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/education-finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/literacy-policy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/operationalizing-disability-inclusion-in-education",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/results-based-financing-in-education",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/education/student-assessment-for-practitioners-and-policy-makers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/addressing-antimicrobial-resistance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/attacking-inequalities-in-health",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/behavior-change-for-health-system-strengthening-and-achieving-universal-health-coverage",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/decentralization-to-enhance-health-system-performance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/food-prices-for-nutrition-cost-and-affordability-of-a-healthy-diet-and-other-indicators",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/foundations-of-healthcare-quality-management",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/gender-and-universal-health-coverage",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/health-systems-flagship-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/human-resource-for-health",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/nutrition-responsive-budgeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/school-health-nutrition",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/social-health-insurance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-i-introduction-to-the-one-health-approach",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-ii-putting-one-health-into-practice",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/adaptive-social-protection",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/how-to-leverage-safety-nets-to-prevent-gender-based-violence",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/identifying-environmental-social-risks-and-impacts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/key-concepts-and-topics-on-jobs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/south-south-learning",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/understanding-pensions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/people/social-protection/water-women-and-jobs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/agribusiness-leadership-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/agricultural-soil-fertility-management-in-the-era-of-climate-change",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/agriculture-innovation-systems",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/agTech-harnessing-technologies-for-sustainable-food-agriculture-systems",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/digital-ag-series-big-data-platform-scaling-up-data-driven-digital-agriculture-learnings-from-the-kenya-experience",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/e-learning-on-digital-agriculture",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/foodborne-illnesses-and-personal-hygiene",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/gender-in-climate-smart-agriculture-projects",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-foundation-course",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-handbook-course",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-internal-audit-course-for-staff",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-reform-training",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-reforms-course-learning-from-the-best",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/introduction-to-index-insurance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/shining-a-brighter-light-data-driven-evidence-on-adoption-and-diffusion-of-agriculture-innovations-in-ethiopia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/agriculture/sustainable-agricultural-banking-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change/climate-change-and-health",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change/climate-resilient-transport-in-small-island-developing-states",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change/climate-warehouse-end-to-end-digital-infrastructure-for-carbon-markets",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change/integrated-land-use-initiatives",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/climate-change/resilience-monitoring-and-evaluation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/circular-economy-self-paced-e-learning",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/embedding-ecosystem-services-into-policy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/ifrs-sustainability-disclosure-standards",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/introduction-to-nature-based-solutions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/learn-blue-brief",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/managing-environmental-and-social-performance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/ocean-governance-capacity-building-training-program-e-learning-course",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/sustainability-training-and-e-learning-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/technical-design-and-premium-calculations-for-crop-climate-insurances",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/environment/the-e-s-academy-for-municipal-officers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/earth-observation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/irrigated-agriculture",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/irrigation-operator",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/taking-action-to-achieve-inclusive-wash",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/water-utility-creditworthiness",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/planet/water/water-women-and-jobs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/capital-market",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/capital-market/capital-markets-postgraduate-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/capital-market/scaleX",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/capital-market/training-on-gender-equality-in-global-capital-markets",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/economic-policy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/economic-policy/debt-management-for-debt-managers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/economic-policy/regional-workshop-on-low-income-countries-debt-sustainability-framework",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/annual-seminar-for-senior-bank-supervisors-from-emerging-economies",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/business-of-the-state-and-private-sector-development",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/disaster-risk-finance-in-the-pacific",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/disaster-risk-finance-in-the-pacific-get-ready-to-respond",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/fast-payments-and-financial-market-infrastructure",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/fundamentals-of-disaster-risk-finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/introduction-to-disaster-risk-finance-analytics",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/national-aml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/fci/trade-facilitation-and-standards-compliance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions/e-procurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions/government-analytics-fellowship",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions/govtech",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions/introduction-to-public-expenditure-financial-accountability",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/institutions/soe-leadership-program",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty/assessing-the-impact-of-fiscal-policy-on-poverty-and-quality",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty/geospatial-analysis-for-development-impact",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty/measuring-progress-on-poverty-reduction",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty/monitoring-wellbeing-in-real-time",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/prosperity/poverty/strengthening-gender-statistics",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://academy.worldbank.org/en/resource",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://academy.worldbank.org",
+      "status": "301 Moved Permanently Redirect: https://academy.worldbank.org/en/home"
+    },
+    {
+      "url": "https://academy.worldbank.org/ext/en/home",
+      "status": "302 Moved Temporarily Redirect: https://www.worldbank.org/404_response.htm"
+    },
+    {
+      "url": "https://academy.worldbank.org/ext/en/who-we-are",
+      "status": "302 Moved Temporarily Redirect: https://www.worldbank.org/404_response.htm"
+    }
+  ]
+}
