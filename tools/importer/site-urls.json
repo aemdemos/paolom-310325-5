@@ -1,0 +1,394 @@
+{
+  "originUrl": "https://www.westjetcargo.com",
+  "lastCrawled": "https://www.westjetcargo.com/",
+  "urls": [
+    {
+      "url": "https://www.westjetcargo.com/en-ca",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company/meet-our-team",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company/our-fleet",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/errors/404",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/apply-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/contact-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/fuel-surcharge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/other-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/refund-polcy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/resources",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/tender-retrieval-times",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/flight-schedule",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/route-view",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/alberta",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/british-columbia",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/manitoba",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/new-brunswick",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/newfoundland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/northwest-territories",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/nova-scotia",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/ontario",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/prince-edward-island",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/quebec",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/saskatchewan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/bike-air",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/campus-air",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/charters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/compassionate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/dangerous-goods",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/general",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/live-animals",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/perishables",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/pets",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/pharma",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/priority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/priority/refund-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/safe-air",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/get-quote",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/submit-claim",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/submit-claim/success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/track-shipment",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.westjetcargo.com/en-ca/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/company"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company/meet-our-team/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/company/meet-our-team"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/company/our-fleet/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/company/our-fleet"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/errors/404/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/errors/404"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/apply-account/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/apply-account"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/contact-us/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/contact-us"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/fuel-surcharge/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/fuel-surcharge"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/other-charges/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/other-charges"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/refund-polcy/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/refund-polcy"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/resources/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/resources"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/help-center/tender-retrieval-times/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/help-center/tender-retrieval-times"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/flight-schedule/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/flight-schedule"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/route-view/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/route-view"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/alberta/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/alberta"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/british-columbia/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/british-columbia"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/manitoba/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/manitoba"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/new-brunswick/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/new-brunswick"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/newfoundland/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/newfoundland"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/northwest-territories/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/northwest-territories"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/nova-scotia/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/nova-scotia"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/ontario/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/ontario"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/prince-edward-island/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/prince-edward-island"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/quebec/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/quebec"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/network/station-information/saskatchewan/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/network/station-information/saskatchewan"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/bike-air/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/bike-air"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/campus-air/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/campus-air"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/charters/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/charters"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/compassionate/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/compassionate"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/dangerous-goods/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/dangerous-goods"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/general/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/general"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/live-animals/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/live-animals"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/perishables/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/perishables"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/pets/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/pets"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/pharma/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/pharma"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/priority/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/priority"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/priority/refund-success/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/priority/refund-success"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/products/safe-air/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/products/safe-air"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/shipment-services"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/get-quote/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/shipment-services/get-quote"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/submit-claim/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/shipment-services/submit-claim"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/submit-claim/success/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/shipment-services/submit-claim/success"
+    },
+    {
+      "url": "https://www.westjetcargo.com/en-ca/shipment-services/track-shipment/",
+      "status": "301 Moved Permanently Redirect: https://www.westjetcargo.com/en-ca/shipment-services/track-shipment"
+    }
+  ]
+}
