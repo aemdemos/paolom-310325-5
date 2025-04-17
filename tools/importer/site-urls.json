@@ -1,0 +1,3182 @@
+{
+  "originUrl": "https://www.wesco.com",
+  "lastCrawled": "https://www.wesco.com/",
+  "urls": [
+    {
+      "url": "https://wesco.gcs-web.com/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/content/wesco/language-masters/en/doing-business-with-us.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/404.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/abb.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/actuvate.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/acuity-brands.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/aiphone.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/algo.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/allegion.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/ansell.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/apc-by-schneider-electric.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/assa-abloy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/atkore.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/atlona.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/a/axis.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/b/belden.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/b/brady.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/chatsworth-products-cpi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/commscope.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/commscope/commscope-broadband-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/cooper-lighting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/corning.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/corning/corning-carrier-networks.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/c/current.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/d/dormakaba.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/d/dupont/dupont-personal-protection.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/e/eaton.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/e/emerson.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/hanwha.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/hid-global.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/hitachi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/honeywell.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/honeywell/honeywell-fire.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/honeywell/honeywell-ppe-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/hubbell.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/j/johnson-controls.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/j/johnson-controls/johnson-access-control.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/j/johnson-controls/johnson-intrusion.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/legrand.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/legrand/legrand-av.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/legrand/legrand-dpc.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/leviton.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/leviton/leviton-electrical-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/leviton/leviton-network-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/lg-electronics.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/l/liberty.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/maclean.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/marathon.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/maxcell.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/milestone.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/milwaukee-tool.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/molex.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/m/msa-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/n/napco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/n/nextivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/n/nice.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/n/nokia.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/n/nvent.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/num/3m.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/panduit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/peerless.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/pelco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/pip.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/prysmian.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/p/prysmian/carol.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/r/rittal.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/s/southwire.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/s/superior-essex.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/s/superior-glove.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/s/surewerx.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/t/te-connectivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/v/vertiv.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/w/wago-corporation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/w/wirewerks.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/aed-is-now-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/behind-the-blueprint.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/canada-retail-branches.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/combiner-box.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/electrical-balance-of-system-for-commercial-installations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/hi-line-is-now-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/intel.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/needham-is-now-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/pow-r-xpress-stocking-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/aatmunn-safety-inspection-manager.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/abb-panelboards.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/broadband-deployment-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/connected-communities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/construction-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/crestron-video-conferencing-promo.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/data-center-application-guide.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/data-center-guide.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/florida-distribution-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/industrial-supplies-catalog.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/industrial-wire-and-cable-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/integrated-architecture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/microsoft-express-rooms-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/molex-industrial-connectors.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/rahi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/streamlined-supply-chain-solutions-for-pharmaceutical-manufacturers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/wesco-connects.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/wesco-industrial-supplies-catalog.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/wesco-nokia-network-in-a-box-ebook.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/eaton-ev-charging.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/public-power.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/wesco-and-kyndryl-a-powerful-partnership.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/wesco-truck-stock-program-simplified-by-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/wescos-southeast-distribution-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/automotive-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-as-a-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-as-a-service/atlona.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-as-a-service/crestron.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-as-a-service/liberty.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-as-a-service/logitech.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/conference-room-in-a-box.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/assembled-electrical-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/connected-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/data-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/industrial-automation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/infrastructure-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/iot-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/lighting-control-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/proav.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/project-execution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/innovation-center/supply-chain-optimization.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/partner-alliance-safer-schools.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/semiconductor-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/email-preferences.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/subscribe.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/subscribed-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/subscribed.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/subscription-preferences.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/thank-you.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/thank-you/acknowledgement.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/contact/unsubscribe.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/doing-business-with-us.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial/commercial-building.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial/data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial/financial.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial/parking-facilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/commercial/retail-and-hospitality.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/construction.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/education-and-government.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/education-and-government/education.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/education-and-government/federal-government.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/education-and-government/state-and-local-government.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/consumer-packaged-goods.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/mining-and-metals.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/oem.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/oem/assembly-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/oem/manufactured-structures.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/industrial-and-manufacturing/oil-and-gas.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband/broadband-and-fttx.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband/broadband-funding.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband/outdoor-wireless.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband/service-providers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/industries/utility-and-broadband/utility-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/3-technology-innovations-driving-warehouse-Safety-in-2023.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/3-ways-mobile-is-enabling-the-future-work-experience.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/4-barriers-to-effective-safety-culture-and-overcoming-them.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/4-steps-to-shore-up-cybersecurity-on-the-plant-floor.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/5-reasons-why-ip-audio-improves-paging-and-alerting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/5-steps-for-a-successful-turnaround-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/6-ways-optimal-lighting-could-lead-to-improved-retail-sales.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/7-simple-strategies-for-effective-construction-material-manageme.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/8-easy-ways-to-fortify-operations-from-cyber-threats-with-technology-you-already-have.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/8-reasons-to-invest-in-a-lighting-retrofit-upgrade.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/a-deep-dive-into-broadband-funding-programs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/a-look-at-cabling-best-practices-for-ai-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/a-strategic-approach-to-meeting-the-fdas-cgmp-requirements.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/abb-installation-products-drive-productivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/access-control-systems-for-schools-a-layered-approach.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/access-vs-ownership-a-fundamental-consideration-of-xaas.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/achieving-physical-security-in-your-data-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/adapting-to-trends-in-the-global-supply-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/addressing-cybersecurity-risks-associated-with-remote-access.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/addressing-the-complex-needs-of-semiconductor-manufacturers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/addressing-the-risks-of-aging-plant-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/advantages-of-a-low-voltage-building.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/ai-and-the-industrial-internet-of-things.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/ai-infusion-the-next-wave-of-data-center-networking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/ai-ready-prepare-your-customers-data-center-for-the-future.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/an-integrated-approach-to-smart-technology-is-critical.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/are-masks-protecting-your-employees.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/are-you-ready-to-transform-your-in-building-wireless-coverage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/av-tech-tour-2024.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/av-tech-tour.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/begin-your-iot-project-with-a-security-first-approach.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/being-part-of-wescos-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/benefits-of-a-strong-materials-management-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/best-approach-for-network-capacity-speed-and-security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/best-practices-for-successful-operations-in-our-global-economy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/beyond-the-burbs-q-and-a.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/boost-broadband-connectivity-with-free-space-optics.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/boost-productivity-on-renewable-energy-construction-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/boosting-in-building-cellular-coverage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/building-a-plant-modernization-roadmap.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/building-smart-city-infrastructure-in-the-uk.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/camera-as-a-sensor-on-surveillance-system-design.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/capacity-slotting-and-product-standardization.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/cares-act-and-american-rescue-plan-funds-to-future-proof-schools.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/carol-composite-access-control-cable.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/case-for-remote-maintenance-in-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/choose-the-right-surge-protection-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/closing-the-digital-divide-expanding-broadband-access-nationwide.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/collaboration-in-the-conference-app-era.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/collaborative-approach-to-supply-chain-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/command-and-control-trends-and-opportunities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/comment-ameliorer-la-productivite-des-entrepreneurs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/community-owned-broadband.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/complexity-and-resources.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/comprehensive-security-solutions-for-safer-k12-schools.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/conduct-risk-assessment-at-healthcare-facility.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/conferencing-and-collaboration-simplified.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/connectivity-iot-making-buildings-smart.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/conquer-your-complex-cable-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/cooling-edge-computing-in-retail-operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/creating-a-next-level-customer-experience-that-drives-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/critical-elements-for-developing-a-culture-of-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/crossing-the-restricted-approach-boundary-the-role-of-qualified-persons-in-electrical-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/customer-considerations-physical-security-and-datacom-projects.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/data-center-av-solutions-what-you-need-to-know.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/data-center-life-cycle-management-disk-data-security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/data-center-managed-services-right-partner-is-critical.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/data-center-sustainability-and-how-to-achieve-it.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/delivering-av-projects-faster-and-at-a-lower-cost.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/design-and-build-for-maximum-power-density.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/developing-future-proof-commercial-buildings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/dielectric-testing-of-rubber-goods-is-essential-for-line-worker-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/distribution-benefits-contractors-prefabricated-electrical-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/edge-computing-the-foundation-of-digital-first-connected-operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/edge-computings-unique-deployment-requirements.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/electrical-safety-equipment-compliance-in-the-mining-industry.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/electrical-solutions-for-food-and-beverage-processing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/electrification-charges-forward.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/elevate-manufacturing-with-an-integrated-quality-management-system.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/elevating-data-center-resilience-through-advanced-power-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/emerging-technology-increases-data-center-fiber-connections.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/energy-storage-opportunity-for-electrical-contractors.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/enhancing-electrical-systems-for-single-and-multifamily-homes.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/enhancing-networks.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/ensure-safety-and-prevent-contamination-in-your-industry.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/evolution-of-risk-management-and-workplace-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/exploring-smart-technology-for-offsite-construction-part-two.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/exploring-smart-technology-for-offsite-construction.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/extending-the-life-of-your-industrial-electrical-equipment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/fiber-broadband-is-sprouting-in-alabama.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/fighting-air-surface-quality-hazards-with-air-disinfection-biosecurity-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/fintech-company-standardizes-on-wescos-conference-room-as-a-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/five-best-practices-for-electrical-safety-on-the-plant-floor.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/five-point-plan-to-arc-flash-safety-compliance.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/five-reasons-your-building-needs-a-peer-to-peer-based-ip-intercom.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/five-ways-wesco-can-simplify-your-global-operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/focus-on-electrical-safety-in-the-workplace.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/foundational-need-for-infrastructure-to-support-iot.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/four-considerations-for-leveraging-ai-in-surveillance-systems.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/four-factors-shaping-the-data-center-market.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/four-ways-to-improve-warehouse-operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/free-space-optics-delivers-last-minute-connectivity-for-concert.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/future-meets-past-aging-building-security-retrofits.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/gen-ai-demands-on-data-center-capacity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/getting-it-to-click-understanding-enclosure-standards.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/getting-started-on-your-comprehensive-facility-improvement-plan.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/hardwired-or-wireless-why-not-both.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-alternative-energy-can-meet-data-center-power-demands.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-automation-will-impact-manufacturing-plants.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-connected-safety-can-unlock-warehouse-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-manufacturers-can-reduce-hazards-and-keep-workers-safe.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-nfpa-70b-changes-affect-maintenance-operations-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-prefab-solutions-boost-labor-productivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-remote-monitoring-can-optimize-equipment-use-and-increase-productivity-and-safety-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-remote-monitoring-can-optimize-equipment-use-and-increase-productivity-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-state-and-local-governments-can-capitalize-on-federal-funding.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-technology-can-help-reduce-retail-losses-from-shrinkage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-adapt-as-global-supply-chain-disruptions-continue.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-avoid-overengineering-your-energy-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-build-an-eco-friendly-safety-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-choose-racks-for-edge-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-implement-a-kitting-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-improve-contractor-productivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/how-to-thrive-in-a-converged-network-environment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/hybrid-work-strengthens-the-case-for-av-as-a-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/illuminating-mine-safety-with-led-lighting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/industrial-artificial-intelligence-and-machine-learning.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/innovating-the-future-next-generation-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/innovative-ways-to-lessen-your-labor-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/integration-and-easy-network-video-recorder-installations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/inventory-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/iot-and-where-its-going.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/iot-in-the-post-pandemic-supply-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/is-your-fall-protection-program-falling-short.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/is-your-wide-area-network-keeping-up.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/keep-emergency-communications-out-of-the-dead-zone.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/keep-your-food-processing-plant-safe-with-electrification-excellence.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/keeping-up-with-energy-demands-of-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/key-partnership-bringing-fiber-to-rural-iowa.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/led-retrofits-deliver-roi-for-large-retailers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/liquid-cooling-in-high-density-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/maintain-uptime-in-demanding-non-stop-operating-environments.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/maintenance-strategies-for-avoiding-unplanned-downtime.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/making-cents-of-workplace-safety-programs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/making-the-case-for-liquid-cooling-in-high-density-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/making-the-most-of-esser-and-heerf-funding.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/making-your-pro-av-business-future-ready.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/manage-data-center-growth-with-centralized-patching-field.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/managing-roller-coaster-of-commodity-price-fluctuations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/managing-your-ot-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/manufacturers-build-a-collaborative-cybersecurity-team.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/maximize-efficiency-in-your-mro-supply-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/mechanical-and-electrical-eBook.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/meeting-the-full-spectrum-of-a-security-customers-needs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/megatrends-predict-a-mega-security-future.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/mobile-enabled-electronic-locks-for-multifamily-properties.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/modernizing-and-securing-your-industrial-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/modernizing-plant-hardware.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/multifaceted-approach-to-data-center-security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/navigating-cybersecurity-challenges-in-plant-floor-digitization.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/navigating-digital-transformation-with-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/navigating-supply-chain-challenges-in-wire-and-cable.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/navigating-the-evolution-of-supply-chains-in-a-dynamic-world.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/navigating-your-utility-metering-transition.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/nitrile-gloves-and-fight-against-fentanyl.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/now-is-the-new-future-for-fire-systems.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/nvent-approach-to-data-center-innovation-and-sustainability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/optimize-equipment-uptime-with-asset-performance-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/oshas-top-ten-violations-explored.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/out-of-line-the-story-of-waittime.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/overcoming-roadblocks-in-fiber-installations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/partner-demo-tour-2023.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/partnership-with-oregon-electric-co-op-drives-customer-success.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/perspectives-on-data-center-growth.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/physical-access-for-a-modern-mobile-world.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/physical-security-and-cybersecurity-are-they-really-so-different.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/planning-for-an-end-to-end-broadband-deployment-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/power-to-the-data-center-challenges-and-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/powering-a-future-ready-network-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/powering-and-connecting-the-hyperconnected-building.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/powering-efficient-and-resilient-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/prepare-for-growing-demand-with-a-future-proof-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/preparing-for-the-evolution-of-unified-conferencing-and-collaboration-in-the-workplace.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/preparing-for-the-infrastructure-bill-gold-rush.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/preparing-your-oil-and-gas-business-for-weather-emergencies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/preventing-downtime-in-wastewater-treatment-facilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/private-lte-plte-enabling-secure-and-reliable-connectivity1.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/private-wireless-networks-can-be-a-game-changer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/project-management-and-supply-chain-support.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/projet-en-matiere-denergies-renouvelable.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/protect-your-electrical-system-in-harsh-mining-conditions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/protecting-your-business-from-counterfeit-electrical-parts.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/providing-infrastructure-solutions-to-the-u-s-federal-government.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/public-vs-private-networks-what-is-the-difference.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/reliable-access-control-solutions-for-military-housing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/reliable-power-starts-with-reliable-products.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/resource-hangover-scale-down-demobilization-and-closeout.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/retrofitting-your-building-smart-investment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/right-lighting-for-parking-garage-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/rising-to-meet-healthcare-security-greatest-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/safety-best-practices-to-implement-in-2024.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/safety-management-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/scale-down-demobilization-and-closeout.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/secure-the-glass-solutions-for-glass-doors-and-openings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/securing-what-we-rely-on-ot-cybersecurity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/securing-your-building-with-power-over-ethernet.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/security-industry-trends-key-insights-for-2025.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/security-installations-in-a-wireless-world.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/seven-steps-to-an-effective-hearing-conservation-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/should-safety-glasses-be-worn-under-faceshields.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/sirius-controls-ensure-the-perfect-brewing-temperature.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/strategies-to-meet-changing-data-center-infrastructure-demands.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/streamline-yard-management-with-a-supply-chain-expert.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/streamlining-k-12-network-deployments.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/strengthening-the-solar-industry.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/success-at-any-mile-building-a-resilient-network-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/summer-is-upgrade-and-retrofit-season.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-expertise-helps-ftth-operator-adapt-to-rapid-growth.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-management-solutions-for-broadband-deployment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-management-solutions-for-inventory-management-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-management-solutions-for-procurement-and-purchasing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-services-simplify-outdoor-fiber-optic-cabling-infrastructure-deployment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/support-a-culture-of-safety-excellence.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supporting-a-safe-return-to-the-workplace.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/supporting-systems-integrators-at-sports-venues.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/sustainability-in-the-built-environment-carbon-chemicals-and-circularity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/tackling-global-data-center-challenges.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/talk-about-safety-every-day.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/tech-in-2024-predictions-and-wild-guesses.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/test-and-measurement-solutions-for-broadband-deployment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-3-keys-to-designing-successful-tech-enabled-education.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-always-on-conference-room.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-benefits-of-developing-a-successful-purchasing-partnership.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-benefits-of-modernizing-manufacturing-power-systems.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-benefits-of-netlink-managed-power-for-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-benefits-of-predictive-maintenance-in-industrial-automation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-changing-world-of-a-locksmith.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-critical-24-7-operations-hubs-that-power-a-connected-world.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-digital-transformation-journey-in-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-dog-days-are-far-from-over.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-evolution-of-iot-an-interview-with-matt-powers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-evolution-of-the-oem-industry-an-interview-with-chris-wadsworth.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-evolution-of-the-security-camera.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-evolution-of-the-security-industry-an-interview-with-tara-dunning.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-future-of-sustainability-in-our-world.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-future-of-the-supply-chain-depends-on-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-future-of-workplace-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-power-of-connected-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-power-of-data-visibility-in-plant-maintenance.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-power-of-liquid-immersion-cooling-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-race-to-innovate-with-scarce-resources.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-renewable-energy-transition-considerations-for-todays-data-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-three-levels-of-motor-starter-controls.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-top-5-electrical-and-construction-industry-trends-for-2025.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/the-ucc-revolution-bridging-the-rto-divide-and-redefining-the-future-of-work.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/three-aspects-for-future-ready-commercial-buildings-and-parking-facilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/three-key-factors-for-capitalizing-on-electrification-opportunities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/three-steps-to-capitalize-on-the-electrification-opportunity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/three-trends-bringing-integrators-and-distributors-together.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/time-for-a-fresh-look-at-hyperconverged-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/todays-glass-doors-can-offer-both-security-and-aesthetic-appeal.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/top-5-reasons-to-implement-safety-and-health-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/top-7-material-management-frustrations-construction.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/transformations-in-the-data-center-industry-interview-with-dirk-naylor.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/transforming-fire-alarm-communication-with-connected-technology.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/u-s-broadband-infrastructure-funding-explained.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/understanding-ansi-Z359-14-2021.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/unified-power-versus-traditional-power-for-access-control.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/unlock-the-power-of-smart-facility-management-through-data-aggregation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/value-of-global-commercial-av-distribution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/want-to-save-money-watch-your-plants-energy-use.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wearables-pilot-program-reduces-hazards.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wesco-a-data-center-partner-from-start-to-finish.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wesco-cares-2023-year-in-review.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wesco-data-center-services-engineered-by-experts1.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/what-why-and-how-of-energy-storage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/whats-in-store-for-data-centers-in-2024.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/where-fiber-doesnot-fit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-a-security-infrastructure-upgrade-is-essential.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-broadcast-industry-disruption-is-an-opportunity-for-av.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-considering-yourself-a-qualified-person.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-ewaste-should-be-part-of-data-center-sustainability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-locksmiths-should-embrace-the-cloud.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-network-modernization-is-essential-for-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-right-vfd-cable-is-important.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-smart-sensors-are-the-smart-answer-for-intelligent-buildings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-surge-protection-devices-are-more-essential-than-ever.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-testing-rubber-goods-is-essential-to-electrical-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-your-ethernet-switch-and-networking-equipment-matters.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/why-your-fall-protection-program-isnt-working.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wireless-connectivity-for-healthcare-facilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wireless-connectivity-for-healthcare-workers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wireless-connectivity-for-patients-and-visitors.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wireless-innovations-driving-the-future-of-digital-healthcare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/wireless-lan-in-department-of-defense.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/women-in-security-feature.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/workplace-safety-concerns-in-healthcare-facilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/author/a/abb.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/40-percent-labor-savings-on-large-solar-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/aatmunn-connected-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/air-force-base-collaboration-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/ami-meter-exchange.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/asr-achieves-sustainability-goals-with-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/assembled-electrical-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/assembled-electrical-solutions-success-story.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/atd-is-getting-plugged-in-to-ev.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/automation-solutions-drive-efficiencies-for-a-battery-recycling-company.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/automotive-oem-mitigates-risk-of-downtime.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/automotive-oem-realizes-substantial-savings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/better-lighting-quality-helps-district-reduce-costs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bodytrak-prevents-heat-stress-in-metal-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/boosting-the-fan-experience-with-state-of-the-art-technologies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bottler-saves-97-k-in-one-year-with-a-led-retrofit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/boutique-style-lighting-brightens-the-customer-experience.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bridging-mighty-mississippi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bringing-a-healthcare-facility-into-the-future.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bringing-broadband-to-rural-america-the-future-is-cooperative.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/bringing-reliable-broadband-connectivity-to-a-tribal-reservation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/conceptions-adaptees-aux-normes-declairage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/consolidation-of-electrical-equipment-leads-to-reduced-installation-costs-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/consolidation-of-electrical-equipment-leads-to-reduced-installation-costs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/contractor-implements-estock-for-jobsite-inventory-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/contractor-saves-time-and-2-million-on-construction-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/contractor-shines-on-led-retrofit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/cooling-system-failure-solved-with-cost-effective-vfd-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/cooling-system-failure-solved-with-cost-effective-vfd.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/coos-curry-electric-cooperative-brings-their-journey-full-circle.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/creating-the-infrastructure-smart-cities-need-for-iot-connectivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/custom-designed-retrofit-data-hub.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/customer-accomplishes-environmental-goals-with-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/customized-vending-solution-for-food-and-beverage-customer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/delivering-a-state-of-the-art-smart-building.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/design-capabilities-with-lighting-standards-in-mind.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/driving-operational-efficiency-with-asset-tracking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/eaton-helps-bring-clarity-to-power-environment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/electrical-contractor-modernizes-inventory-management-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/emergency-repair-to-a-damaged-telecommunications-duct-pack.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enabling-the-factory-of-the-future.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enclosure-cooling-solution-prevents-costly-downtime.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/end-to-end-enterprise-network-management-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/energy-management-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/energy-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/energy-optimizer-tracks-emissions-for-automotive-manufacturer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/energy-savings-initiative-realizes-over-10-million-in-cost-reduction.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enhance-operations-in-sports-and-entertainment-venues.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enhancing-customer-service-efficiency-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enhancing-inventory-management-efficiency-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/enhancing-mro-efficiency-for-oil-and-gas-turnarounds.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/ensuring-manufacturing-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/ensuring-worker-safety-with-honeywell-ladder-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/entrocim-drives-energy-savings-for-major-international-airport.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/environmentally-advanced-classrooms.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/estock-improves-multi-location-solar-inventory-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/ev-manufacturer-partners-with-wesco-to-streamline-procurement.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/fiber-broadband-is-sprouting-at-cullman-electric-cooperative.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/flexible-fabric-innerduct-assists-with-network-construction-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/fortune-500-company-saves-time-and-money-with-robust-safety-and-mro-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/full-lighting-services-for-multi-store-retail-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/global-energy-provider-deploys-28-conference-rooms-in-14-days.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/global-wood-manufacturer-achieves-45-reduction-in-hand-injuries.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/helping-sports-arenas-shine-brighter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/historic-public-market-modernizes-electrical-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/hurricane-laura-storm-response.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/implementing-a-press-control-technology-upgrade-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/implementing-a-press-control-technology-upgrade.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/improve-energy-efficiency-and-data-visibility-in-enterprise-data-centers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/improving-lighting-efficiency-for-grocery-store-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/improving-materials-management-with-digital-data-tracking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/improving-profitability-for-grocery-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/in-line-retailer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/increasing-production-efficiency-and-eliminating-packaging-waste-with-door-hardware-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/integrator-enhances-inventory-management-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/intelligent-monitoring-systems-improve-performance-for-district.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/iot-system-to-improve-product-stability-and-quality.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/it-support-for-seamless-campus-connectivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/large-hospital-updates-life-safety-systems-with-simplifi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/led-retrofit-brightens-universitys-energy-efficiency-and-savings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/led-upgrade-saves-money.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/locksmith-improves-inventory-management-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/management-expertise-delivers-for-wesco-branch-and-large-iou.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/manufacturer-capitalizes-on-market-opportunities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/maximizing-machine-health-with-industrial-asset-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/maximizing-productivity-with-paraspin.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/mine-saves-millions-in-cable-repair-and-installation-costs-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/mine-saves-millions-in-cable-repair-and-installation-costs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/mining-company-improves-safety-and-efficiency-with-insta-reel.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/mitigating-cyber-risks-for-wastewater-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/modernizing-unc-surgical-hospital-with-reliable-network-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/national-retailer-saves-over-56million-in-energy-costs-with-turnkey-lighting-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/network-health-check-addresses-vulnerabilities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/network-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/new-solar-site-for-top-electrical-contractor.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/oem-improves-consignment-inventory-program-with-estock.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/offsite-builds-reduce-costs-for-semiconductor-manufacturer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/oil-and-gas-supermajor-improves-safety-and-productivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/online-sports-entertainment-company-empowers-international-collaboration.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/ontarios-roadmap-to-rural-connectivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/opex-teams-up-with-wesco-to-optimize-their-master-control-panels.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/overcoming-the-100-meter-distance-limitation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/plte-network-provides-secure-and-efficient-connectivity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/powering-the-future-of-transportation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/preventing-downtime-with-enclosure-cooling-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/project-spotlight-industrial.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/project-spotlights-energy-efficiency-best-practices.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/property-management-company-achieves-40-percent-in-energy-savings.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/real-estate-firm-creates-a-smart-facility.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/remote-inventory-management-for-a-mining-and-metals-company.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/renewables-estock-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/retail-space-improves-experience-with-real-time-data.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/revolutionizing-data-center-efficiency.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/robot-cuts-costs-and-boosts-productivity-at-automotive-company.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/saving-millions-for-retail-banking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/savings-for-rubber-goods-material-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/school-controls-lighting-costs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/school-district-uses-smart-sensors-to-reduce-vaping.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/small-towns-gain-the-benefits-of-smart-grids.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/soil-reclamation-unit-helps-save-environment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/solar-solution-lowers-energy-costs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/standardized-data-center-architecture-delivers-global-efficiencies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/streamlined-supply-chain-solutions-for-heavy-industrial-manufacturing-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/streamlining-ppe-management-for-pipe-lining-company.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/supply-chain-excellence-for-multi-site-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/supply-chain-solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/supporting-cost-effective-wind-farm-sustainability-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/supporting-cost-effective-wind-farm-sustainability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/sustainable-lighting-installation-benefits-auto-manufacturer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/tech-firm-integrates-enterprise-management-system-with-operational-technologies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/technology-solutions-for-supply-chain.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/tire-manufacturer-lighting-retrofit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/transforming-transportation-one-city-at-a-time.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/turnkey-lighting-retrofit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/university-integrates-third-party-services-for-enhanced-command-and-control.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/university-microgrid.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/us-nuclear-generation-company-improves-inventory-tracking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-builds-turnkey-solar-powered-ev-charging-infrastructure-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-builds-turnkey-solar-powered-ev-charging-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-delivers-20-percent-cost-reduction-on-construction-project-fr.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-delivers-20-percent-cost-reduction-on-construction-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-delivers-improved-performance-to-system-upgrade.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-estock-transforms-warehouse-management-for-fabricator.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-expertise-drives-fiber-deployment-for-city-of-loveland.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-helps-cloud-technology-provider-complete-data-center-builds.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-helps-deploy-outdoor-fiber-optic-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-helps-standardize-physical-security-for-nationwide-real-estate-developer.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-implements-a-life-saving-lockout-tagout-loto-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-optimizes-supply-chain-for-cybersecurity-project.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wesco-works-with-a-modular-builder-to-support-long-term-success.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wescos-engineering-services-saves-construction-company-2-million.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/wescos-estock-solution-revives-business-relationship.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/work-from-home-kits-enable-seamless-business-continuity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/expert-webinars-on-demand.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/topic/entrocim.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/topic/grid-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/topic/iot-case-studies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/career-opportunities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs/information-technology-development.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs/internship-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs/rotational-development-programs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs/sales-and-operations-development.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/early-career-programs/supply-chain-development.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity/able.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity/mosaic.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity/pride.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity/volt.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity/win.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/our-hiring-process.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/veterans-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/careers/work-at-wesco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/community.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/community/wesco-cares/scholarship.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/corporate-responsibility.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/corporate-responsibility/governance-guidelines-and-policies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/corporate-responsibility/safety-ethics.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/environmental-social-and-governance.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/environmental-social-and-governance/esg-report.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/history.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/investor-day-presentation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/anne-cooney.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/bobby-griffin.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/eash-sundaram.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/glynis-bryan.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/james-singleton.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/john-engel.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/laura-thompson.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/matthew-espe.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/steven-raymund.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/leadership/sundaram-nagarajan.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/branch-closures.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/events-and-registration/2024.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/events-and-registration/2024/broadband-event-schedule.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/events-and-registration/2024/partner-demo-tour.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/events-and-registration/automation-calendar.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/news-about-wesco/dipal-pater-named-wesco-cares-champion-of-the-year.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/news-about-wesco/wesco-expands-partnership-with-habitat-for-humanity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/news-about-wesco/wesco-named-best-place-to-work-for-disability-inclusion.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/news-about-wesco/wesco-supports-american-red-cross-annual-disaster-giving-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/our-brand.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/new-wesco-anixter-brand-underscores-commitment-to-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/new-wesco-group-offers-customers-end-to-end-data-center-management-solutions-and-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/survey-wesco-electrical-safety-foundation-international.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-announces-first-quarter-2022-earnings-call.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-announces-global-availability-of-entrocim-digital-solution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-announces-third-quarter-2022-earnings-call.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-brings-global-scale-and-digital-transformation-expertise-to-minexpo-international.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-granted-elite-partner-authorizations-for-siemens-automation-and-controls-in-expanded-markets.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-named-to-2022-bloomberg-gender-equality-index.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-opens-state-of-the-art-facility-in-eastern-canada.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-recipient-of-2023-top-supply-chain-projects-award.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-to-collaborate-with-corning-and-nokia.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-to-showcase-end-to-end-solar-solution-portfolio-at-re-2024-event.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wesco-unveils-new-integrations-with-axis-communications-at-isc-west.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wescos-conference-room-as-a-service-global-availability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wescos-enhanced-construction-services-and-solutions-empower-contractors.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wescos-expanded-conference-room-as-a-service-offering.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wescos-innovations-highlight-convergence-of-technologies-at-isc-west.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/news-and-insights/press-releases/wescos-scholarship-program-launches-first-cohort-of-electri-apprentices.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/accessibility-statement.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/audit-committee-charter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/authorized-product-and-anti-counterfeiting-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/business-partner-anticorruption-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/code-of-business-conduct.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/code-of-principles-for-senior-financial-executives.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/compensation-committee-charter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/conflict-minerals-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/corporate-governance-guidelines.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/environmental-sustainability-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/executive-committee-charter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/global-anti-corruption-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/global-environmental-ehss.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/global-human-rights-principles.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/government-policies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/independence-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/nominating-and-governance-committee-charter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/privacy-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/slavery-and-human-trafficking-statement.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/supplier-code-of-conduct.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/sustainable-procurement-guidelines.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/uk-tax-strategy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/products.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/products/wesco-loyalty.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/advisory-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/advisory-services/iot.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/advisory-services/plant-floor-health-checks.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/global.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/installation-enhancement.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/installation-enhancement/grounds-jumpers.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/installation-enhancement/rubber-goods.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/management-platforms.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/management-platforms/smart-facilities-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/management-platforms/smart-facilities-management/entrocim-dc.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/management-platforms/smart-facilities-management/entrocim-integrations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/project-deployment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/supply-chain-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/supply-chain-services/vendor-managed-inventory.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/site-maintenance.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation/smart-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation/smart-manufacturing/energy-intensity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation/smart-manufacturing/industrial-asset-management.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation/smart-manufacturing/oem-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/automation/industrial-automation/smart-manufacturing/operational-excellence-in-manufacturing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking/indoor-wireless.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking/network-infrastructure.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking/pro-av.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking/pro-av/unified-communications-collaboration.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/communications-and-networking/utg.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting/electrical.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting/electrical/electrical-distribution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting/lighting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting/lighting/esco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/electrical-and-lighting/wire-and-cable.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/mro-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/mro-and-safety/indoor-air-quality.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/mro-and-safety/mro.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/mro-and-safety/safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/power-generation-and-distribution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/power-generation-and-distribution/transmission-distribution-and-substation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/power-generation-and-distribution/utility-and-grid-services.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/power-generation-and-distribution/utility-gas.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/power-generation-and-distribution/utility-metering.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/renewable-energy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/renewable-energy/battery-storage.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/renewable-energy/electric-vehicle.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/renewable-energy/solar.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/renewable-energy/solar/string-collection.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/security/physical-security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/solutions/security/security-hardware.html",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/protecting-an-industrial-manufacturer-from-cyberattacks.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/alternative-tooling-sourcing-increases-productivity.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/alternative-materials-sourcing-leads-to-oem-savings.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/vending-solutions-increase-usage-efficiency.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/addressing-broadband-deployment-challenges-series/vol-2.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-management-solutions-for-inventory-management-challenges.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles/addressing-broadband-deployment-challenges-series.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/knowledge-hub/articles/supply-chain-management-solutions-for-procurement-and-purchasing.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/supplier-diversity.html",
+      "status": "301 Moved Permanently Redirect: https://www.wesco.com/us/en/our-company/corporate-responsibility/supplier-diversity-dbe.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/investors.html",
+      "status": "302 Found Redirect: https://wesco.gcs-web.com/"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/return-policy.html",
+      "status": "302 Found Redirect: https://www.wesco.com/content/wesco/language-masters/en/doing-business-with-us.html#return-policy"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/terms-and-conditions.html",
+      "status": "302 Found Redirect: https://www.wesco.com/content/wesco/language-masters/en/policies"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/articles.html",
+      "status": "302 Found Redirect: https://www.wesco.com/language-masters/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies.html",
+      "status": "302 Found Redirect: https://www.wesco.com/language-masters/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/d/dupont.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/brands/d/dupont/dupont-personal-protection.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/brands/h/honeywell-fire.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/brands/h/honeywell/honeywell-fire.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2025/us-retail-branches.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2023/partner-alliance-safer-schools.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/campaigns/partner-alliance-safer-schools.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/doing-business-with-us.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/shipping-policy.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/doing-business-with-us.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/policies/become-a-supplier.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/doing-business-with-us.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/campaigns/2024/bead-funding.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/industries/utility-and-broadband/broadband-funding.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/alternative-tooling-sourcing-leads-to-increased-productivity.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/knowledge-hub/case-studies/mro-program-inventory-reduction.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/knowledge-hub.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/our-company/corporate-responsibility/supplier-diversity-dbe.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/our-company/corporate-responsibility.html"
+    },
+    {
+      "url": "https://www.wesco.com/us/en/services/integrated-supply.html",
+      "status": "302 Found Redirect: https://www.wesco.com/us/en/services/supply-chain-services.html"
+    },
+    {
+      "url": "https://www.wesco.com/language-masters/en/knowledge-hub.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.wesco.com/language-masters/en/knowledge-hub.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.wesco.com/content/wesco/language-masters/en/policies",
+      "status": "404 Not Found"
+    }
+  ]
+}
