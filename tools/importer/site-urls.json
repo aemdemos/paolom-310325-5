@@ -1,0 +1,2002 @@
+{
+  "originUrl": "https://corporate.ford.com",
+  "lastCrawled": "https://corporate.ford.com/",
+  "urls": [
+    {
+      "url": "https://corporate.ford.com/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/404.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands/drive-your-next-meeting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands/licensing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/copyright.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/be-curious.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/built-ford-tough.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/create-tomorrow.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/do-the-right-thing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/put-people-first.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ford-open-source.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ford-social-rules-of-the-road.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/history.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission/rules.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission/terms-and-conditions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/purpose.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/racial-social-justice.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ssn-privacy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/about/terms-and-conditions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/coronavirus-recent-updates.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-and-ford-fund-to-support-promote-responsible-mineral-sourcing-pilot-program-to-empower-assist-women.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-driving-skills-for-life-safe-driving-tour.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-fund-announces-ways-employees-can-help-fight-covid-19.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-legal-alliance-women-global-day-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-mobility-research-in-the-michigan-central-mobility-innovation-district.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-recognized-in-bloomberg-gender-equality-index.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-resource-and-engagement-center-bangkok.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-schools-in-mexico-mark-55-years-of-supporting-education.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-supports-president-bidens-call.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/gambia.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/medical-relief-efforts.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/mobility-solutions-that-expand-access-to-food.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/sabbatical-in-central-america.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/blue-oval-city.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/cologne-ev-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ecolab-accelerates-north-american-fleet-electrification-with-ford-pro.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-commits-to-manufacturing-batteries.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-europe-goes-all-in-on-evs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-returns-to-formula-1.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/mustang-mach-e-sci-fi-drive-sounds-inspire-new-song.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/new-generation-electric-vehicles.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/north-americas-largest-electric-vehicle-charging-network.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/tough-goes-electric.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/1901-sweepstakes-race.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/a-century-of-tailgate-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/a-heritage-of-help.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/century-of-progress.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/edsel-ford-and-the-lincoln-dna.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/edsel-ford-biography.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/exterior-lighting-history.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-gt40-origins-427-gt40x.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-gt40-origins-dynamometer-video.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-gt40-origins-le-mans-committee-victory.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-gt40-origins.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-pioneers-auto-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/freddie-ford.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/garden-for-security.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/henry-ford-biography.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/henry-fords-greatest-innovation-the-quadricycle.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/highland-park.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/history-of-the-mercury-brand.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/lincoln-continental-origins.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/moving-assembly-line.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang-empire-state.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang-worlds-fair.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/rosie-the-riveter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/rotunda.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-1928-ford-model-a.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-1949-ford.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-ford-bronco.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-ford-transit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-model-t.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/thunderbird.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-1-1900s-1940s.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-2-1950s-1980s.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-3-1990s-2020s.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-april-newsletter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-december-newsletter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-september-newsletter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/ford-fast-track-job-program.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/ford-summer-intern-program-virtual-during-pandemic.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/michigan-central-development-community-meeting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/3d-printed-locking-wheel-nuts.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/a-new-frontier.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/aero-first--rolling-wind-tunnel.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/all-new-ford-ranger.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/beyond-the-robo-taxi.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/building-in-the-automotive-sandbox.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/f-150-lightning.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-and-3m-now-shipping-powered-air-purifying-respirators.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-and-google-to-accelerate-auto-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-community-responds-to-pandemic-on-local-and-national-scale.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-e-transit-custom.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-employee-volunteers-to-the-fore-with-covid-19-face-shields.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-helps-launch-mobile-covid-19-testing.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-launches-telematics-platform-and-mobile-app.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-offers-assistance-customers-communities-during-covid-19.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-producing-respirators-and-masks-for-covid-19-protection.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-producing-ventilators-for-coronavirus-patients.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-to-restart-european-manufacturing-production.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-will-produce-face-shields-in-brazil-and-argentina-plants.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/fords-next-gen-test-vehicle.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/human-machine-interaction.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/lincoln-100th-anniversary.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/over-the-air-software-updates.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/race-to-the-clouds-ford-supervan-vs-pikes-peak.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/restarting-ford.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/self-driving-bugaloo.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/self-driving-delivery.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/smart-city-van.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/super-duty-truck-of-the-year.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/transit-mobile-operations-trend.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/autonomous-vehicle-robot-delivery.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/digital-experience.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/how-ann-arbor-mi-became-city-mobility-lab.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/new-tech-team-members-transforming-ford.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/pedal-power.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/agave.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ask-the-gecko.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/carbon-free-electricity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/earth-day-activities.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-expands-climate-change-goals.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-mcdonalds-coffee-bean-car-parts-collaboration.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-sides-with-epa-and-california-in-lawsuit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/leading-a-sustainable-revolution.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/naturally-tough.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/recycling-plastic-water-bottles.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/thinking-forward.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/thirsty-try-on-the-go-h2o.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/water-stewardship-commitment.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/inclusive-hiring/diversity.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/contact.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/home.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/connect-with-us.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/faqs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/sustainability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/ford-credit.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/fordlabs.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/code-of-conduct.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/external-grievances.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/production-purchasing-global-terms-and-conditions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/supplier-code-of-conduct.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/dearborn.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-links.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/autoalliance-thailand-co-ltd-plant-joint-venture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/buffalo-stamping-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-automobile-co-ltd-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-automobile-co-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-chongqing-vehicle-operations.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-hangzhou-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chicago-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chicago-stamping-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chihuahua-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cleveland-engine-plant-no-1.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-body-and-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-tool-and-die-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-transmission-plant-joint-venture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cortako-cologne-gmbh-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/craiova-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/craiova-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cuautitlan-stamping-and-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dagenham-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-diversified-manufacturing-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-engine-and-fuel-tank-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-stamping-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-tool-and-die-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-truck-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/essex-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/flat-rock-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-lio-ho-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-lio-ho-motor-co-ltd-joint-venture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-otosan-engine-and-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-otosan-plant-joint-venture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-thailand-manufacturing-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/haiduong-assembly-factory-ford-vietnam-joint-venture.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/halewood-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/hermosillo-stamping-and-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/irapuato-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-fushan-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-xiaolan-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-xiaolan-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/kansas-city-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/kentucky-truck-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/lima-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/livonia-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/louisville-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/michigan-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/oakville-assembly-complex.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ohio-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/pacheco-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/pacheco-stamping-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/rawsonville-components-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/rouge-electric-vehicle-center.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/saarlouis-body-and-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sanand-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sharonville-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/silverton-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sterling-axle-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/struandale-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/valencia-body-and-assembly-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/valencia-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/van-dyke-transmission-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/windsor-engine-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/woodhaven-forging-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/woodhaven-stamping-plant.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/michigan-central.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/silicon-valley.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/search-results.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/all-in-on-america.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/ford-proud-to-honor.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/ford-warriors-in-pink.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/team-rubicon-powered-by-ford.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-facility-visitor-policy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-for-kids-activity-book.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-for-kids-activity-book/virtual-learning-sessions.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ppe.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/integrated-report-additional-documents.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://ford.shorthandstories.com/BlueOvalBatteryParkMichigan/index.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.careers.ford.com/en/home.html",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-battery-park-michigan.html",
+      "status": "301 Moved Permanently Redirect: https://blueovalbatterymi.com"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/employee-resource-groups.html",
+      "status": "301 Moved Permanently Redirect: https://corporate.ford.com/careers/inclusive-hiring/diversity.html"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/economic-impact.html",
+      "status": "301 Moved Permanently Redirect: https://corporate.ford.com/social-impact/all-in-on-america.html"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing/conflict-minerals.html",
+      "status": "301 Moved Permanently Redirect: https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing.html"
+    },
+    {
+      "url": "https://blueovalbatterymi.com",
+      "status": "301 Moved Permanently Redirect: https://ford.shorthandstories.com/BlueOvalBatteryParkMichigan/index.html"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/inclusive-hiring.html",
+      "status": "302 Moved Temporarily Redirect: https://corporate.ford.com.html"
+    },
+    {
+      "url": "https://corporate.ford.com/careers.html",
+      "status": "302 Moved Temporarily Redirect: https://www.careers.ford.com/en/home.html"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/play-to-win.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/one-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/leadership.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/history/company-timeline.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/exterior-lighting-history.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/edsel-ford-biography.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/a-heritage-of-help.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-ford-bronco.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-1928-ford-model-a.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-1949-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/highland-park.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-model-t.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang-empire-state.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/mustang-worlds-fair.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/rotunda.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/thunderbird.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/ford-pioneers-auto-safety.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/henry-fords-greatest-innovation-the-quadricycle.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/the-ford-transit.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/rosie-the-riveter.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/edsel-ford-and-the-lincoln-dna.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/history-of-the-mercury-brand.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-1-1900s-1940s.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-2-1950s-1980s.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/women-of-ford-part-3-1990s-2020s.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history/a-century-of-tailgate-innovation.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-driving-skills-for-life-safe-driving-tour.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-resource-and-engagement-center-bangkok.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-legal-alliance-women-global-day-service.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/sabbatical-in-central-america.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-fund-announces-ways-employees-can-help-fight-covid-19.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/coronavirus-recent-updates.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/medical-relief-efforts.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-supports-president-bidens-call.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-schools-in-mexico-mark-55-years-of-supporting-education.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-and-ford-fund-to-support-promote-responsible-mineral-sourcing-pilot-program-to-empower-assist-women.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-recognized-in-bloomberg-gender-equality-index.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/mobility-solutions-that-expand-access-to-food.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/gambia.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community/ford-mobility-research-in-the-michigan-central-mobility-innovation-district.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/thinking-forward.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/recycling-plastic-water-bottles.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/thirsty-try-on-the-go-h2o.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/naturally-tough.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-mcdonalds-coffee-bean-car-parts-collaboration.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ask-the-gecko.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/agave.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-expands-climate-change-goals.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/earth-day-activities.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/leading-a-sustainable-revolution.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/ford-sides-with-epa-and-california-in-lawsuit.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/carbon-free-electricity.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability/water-stewardship-commitment.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/3d-printed-locking-wheel-nuts.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/transit-mobile-operations-trend.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/self-driving-delivery.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/self-driving-bugaloo.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/over-the-air-software-updates.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/human-machine-interaction.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/building-in-the-automotive-sandbox.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/beyond-the-robo-taxi.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-and-3m-now-shipping-powered-air-purifying-respirators.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-employee-volunteers-to-the-fore-with-covid-19-face-shields.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-helps-launch-mobile-covid-19-testing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-offers-assistance-customers-communities-during-covid-19.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-producing-ventilators-for-coronavirus-patients.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-to-restart-european-manufacturing-production.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-will-produce-face-shields-in-brazil-and-argentina-plants.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/restarting-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/smart-city-van.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-producing-respirators-and-masks-for-covid-19-protection.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-community-responds-to-pandemic-on-local-and-national-scale.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-launches-telematics-platform-and-mobile-app.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/fords-next-gen-test-vehicle.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-and-google-to-accelerate-auto-innovation.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/a-new-frontier.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/lincoln-100th-anniversary.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/all-new-ford-ranger.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/ford-e-transit-custom.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/f-150-lightning.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/aero-first--rolling-wind-tunnel.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/race-to-the-clouds-ford-supervan-vs-pikes-peak.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products/super-duty-truck-of-the-year.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-april-newsletter.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/ford-fast-track-job-program.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/ford-summer-intern-program-virtual-during-pandemic.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/michigan-central-development-community-meeting.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-september-newsletter.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations/creating-tomorrow-together-december-newsletter.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/tough-goes-electric.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/mustang-mach-e-sci-fi-drive-sounds-inspire-new-song.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-commits-to-manufacturing-batteries.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/north-americas-largest-electric-vehicle-charging-network.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/new-generation-electric-vehicles.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/blue-oval-city.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-europe-goes-all-in-on-evs.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ford-returns-to-formula-1.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/cologne-ev-center.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification/ecolab-accelerates-north-american-fleet-electrification-with-ford-pro.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/digital-experience.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/pedal-power.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/how-ann-arbor-mi-became-city-mobility-lab.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/new-tech-team-members-transforming-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/research-and-innovation/autonomous-vehicle-robot-delivery.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/home.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/copyright.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/put-people-first.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/do-the-right-thing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/be-curious.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/create-tomorrow.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/built-ford-tough.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/play-to-win.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture/one-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/purpose.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/leadership.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/history.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/history/company-timeline.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands/drive-your-next-meeting.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/brands/licensing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission/terms-and-conditions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/innovation-ideas-submission/rules.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/terms-and-conditions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ssn-privacy.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ford-open-source.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/ford-social-rules-of-the-road.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/racial-social-justice.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/careers.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/inclusive-hiring.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/inclusive-hiring/diversity.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/careers/employee-resource-groups.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/dearborn.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-links.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/michigan-central.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/silicon-valley.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/code-of-conduct.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/supplier-code-of-conduct.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/production-purchasing-global-terms-and-conditions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/governance-and-policies/external-grievances.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/ford-credit.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/sustainability.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/connect-with-us.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-city/faqs.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/blue-oval-battery-park-michigan.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/fordlabs.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/ford-warriors-in-pink.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/ford-proud-to-honor.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/community/team-rubicon-powered-by-ford.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/economic-impact.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-facility-visitor-policy.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ppe.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-for-kids-activity-book.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/coronavirus/ford-for-kids-activity-book/virtual-learning-sessions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing/conflict-minerals.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/integrated-report-additional-documents.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/all-in-on-america.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/contact.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/404.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/search-results.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sharonville-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/autoalliance-thailand-co-ltd-plant-joint-venture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-otosan-plant-joint-venture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/louisville-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-lio-ho-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chicago-stamping-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-tool-and-die-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/saarlouis-body-and-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/haiduong-assembly-factory-ford-vietnam-joint-venture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-otosan-engine-and-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-hangzhou-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chicago-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cortako-cologne-gmbh-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/buffalo-stamping-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-stamping-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cuautitlan-stamping-and-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/livonia-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/valencia-body-and-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/lima-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/rouge-electric-vehicle-center.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-automobile-co-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-lio-ho-motor-co-ltd-joint-venture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/struandale-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/essex-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/woodhaven-stamping-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/craiova-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-xiaolan-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-engine-and-fuel-tank-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/kentucky-truck-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-tool-and-die-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/irapuato-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-diversified-manufacturing-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/halewood-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/michigan-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-transmission-plant-joint-venture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cologne-body-and-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/silverton-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/pacheco-stamping-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/van-dyke-transmission-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/kansas-city-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sterling-axle-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/chihuahua-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/valencia-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/windsor-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-xiaolan-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/flat-rock-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dagenham-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/oakville-assembly-complex.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ford-thailand-manufacturing-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/pacheco-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/jmc-fushan-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/craiova-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-chongqing-vehicle-operations.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/dearborn-truck-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/sanand-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/rawsonville-components-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/changan-ford-automobile-co-ltd-engine-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/hermosillo-stamping-and-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/cleveland-engine-plant-no-1.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/woodhaven-forging-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/operations/locations/global-plants/ohio-assembly-plant.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/all-in-on-america.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://corporate.ford.com/about/culture.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://corporate.ford.com/social-impact/sustainability/responsible-material-sourcing.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/community.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/sustainability.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/products.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/locations.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/electrification.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com/articles/history.html",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://corporate.ford.com.html",
+      "status": "fetch failed"
+    }
+  ]
+}
