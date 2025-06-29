@@ -1,0 +1,39 @@
+{
+  "originUrl": "https://fashion-blog-0b9d71.webflow.io",
+  "lastCrawled": "https://fashion-blog-0b9d71.webflow.io/",
+  "urls": [
+    {
+      "url": "https://fashion-blog-0b9d71.webflow.io/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "e2bf4cb5fb213891b24712348eabf073789d9c88"
+    },
+    {
+      "url": "https://fashion-blog-0b9d71.webflow.io/fashion-insights",
+      "source": "CRAWL",
+      "targetPath": "/fashion-insights",
+      "id": "ba042dee65b084abd42df7c6fddbc3a0993d5c62"
+    },
+    {
+      "url": "https://fashion-blog-0b9d71.webflow.io/fashion-trends-of-the-season",
+      "source": "CRAWL",
+      "targetPath": "/fashion-trends-of-the-season",
+      "id": "7f8d018dec59fed38f130c3cecdabb73ba867f24"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": []
+}
