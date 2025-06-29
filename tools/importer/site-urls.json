@@ -1,0 +1,38 @@
+{
+  "originUrl": "https://kernel-taupe-53744035.figma.site",
+  "lastCrawled": "https://kernel-taupe-53744035.figma.site/",
+  "urls": [
+    {
+      "url": "https://kernel-taupe-53744035.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "744296cf9c2ba97a8f89917cfcb152eeaaa56277"
+    },
+    {
+      "url": "https://kernel-taupe-53744035.figma.site/about",
+      "source": "SITEMAPS",
+      "targetPath": "/about",
+      "id": "6ff7945d0ccc33399d7f89d73a3fde7712d3105c"
+    },
+    {
+      "url": "https://kernel-taupe-53744035.figma.site/project",
+      "source": "SITEMAPS",
+      "targetPath": "/project",
+      "id": "ce058a891db075552a6b3a5a6332501064043a58"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
