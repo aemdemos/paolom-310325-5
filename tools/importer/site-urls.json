@@ -1,0 +1,36 @@
+{
+  "originUrl": "https://wknd-trendsetters.webflow.io",
+  "lastCrawled": "https://wknd-trendsetters.webflow.io/single-page",
+  "urls": [
+    {
+      "url": "https://wknd-trendsetters.webflow.io/single-page",
+      "source": "CRAWL",
+      "targetPath": "/single-page",
+      "id": "9647f81ed63b67e0be60e6d965774c17fe6fdd1d"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://wknd-trendsetters.webflow.io/404-2",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://wknd-trendsetters.webflow.io/404-3",
+      "status": "404 Not Found"
+    }
+  ]
+}
